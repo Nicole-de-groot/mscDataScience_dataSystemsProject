@@ -1,1 +1,4 @@
 *.xml
+.ipynb_checkpoints
+alles.txt
+downsized.txt
