@@ -18,22 +18,15 @@ if os.path.isfile(checkedNUM + ".p"):
         checkedNUMfiles = pickle.load(fp)
 else: checkedNUMfiles = []
 
-
-files = glob.glob("*xml")
-
-#i = iter(files)
-
-#currentfile = next(i)
-#while currentfile in checkedNUMfiles:
-#    print(currentfile,"\talready checked")
-#    currentfile = next(i)
-#print(currentfile)
+prefix = "kadaster/"
+cut = len(prefix)
+files = glob.glob(prefix + "*xml")
 
 for currentfile in files:
-    if currentfile in checkedNUMfiles:
-        print(currentfile + "\t already checked")
+    if currentfile[cut:] in checkedNUMfiles:
+        print(currentfile[cut:] + "\t already checked")
     else:
-        print(currentfile)
+        print(currentfile[cut:])
         mydoc = minidom.parse(currentfile)
 
         items = mydoc.getElementsByTagName('bag_LVC:Nummeraanduiding')
@@ -54,12 +47,12 @@ for currentfile in files:
                     pc = child.firstChild.nodeValue
             if VA.where((VA["PC"] == pc)&(VA["HUISNR"] == int(huisnr))).dropna().empty == False:
 #                print(id,huisnr,pc)
-                VA_addresses_dict[id]=[huisnr,pc]
+                VA_addresses_dict[id]=[currentfile[cut:],huisnr,pc]
 
     if bool(VA_addresses_dict):
         with open(VA_adresses + '.p', 'wb') as fp:
             pickle.dump(VA_addresses_dict, fp)
 
-    checkedNUMfiles.append(currentfile)
+    checkedNUMfiles.append(currentfile[cut:])
     with open(checkedNUM + '.p', 'wb') as fp:
             pickle.dump(checkedNUMfiles, fp)
