@@ -2501,846 +2501,908 @@ vblObject,gebruiksdoel,oppervlakte,vbloStatus
 363010012133430,kantoorfunctie,133,gevormd
 363010012133430,kantoorfunctie,133,in gebruik
 363010012135345,kantoorfunctie,1360,gevormd
-0365010000000458,kantoorfunctie,90,in gebruik
-0365010000002040,woonfunctie,92,in gebruik
-0365010000002040,woonfunctie,178,in gebruik (niet ingemeten)
-0365010000002040,woonfunctie,141,in gebruik
-0365010000002629,woonfunctie,108,in gebruik
-0365010000002629,woonfunctie,114,in gebruik (niet ingemeten)
-0365010000002629,woonfunctie,114,in gebruik
-0365010000003137,bijeenkomstfunctie,329,in gebruik
-0365010000003137,bijeenkomstfunctie,329,ingetrokken
-0365010000003210,woonfunctie,151,in gebruik
-0365010000003210,woonfunctie,188,in gebruik
-0365010000003210,woonfunctie,176,in gebruik
-0365010000003383,kantoorfunctie,207,gevormd
-0365010000003383,kantoorfunctie,207,gevormd
-0365010000003383,kantoorfunctie,207,in gebruik (niet ingemeten)
-0365010000003383,kantoorfunctie,207,in gebruik
-0366010000002922,industriefunctie,437,in gebruik
-0366010000002922,kantoorfunctie,9708,in gebruik
-0366010000002922,kantoorfunctie,9708,in gebruik (niet ingemeten)
-0366010000002922,kantoorfunctie,16515,in gebruik (niet ingemeten)
-0370010000000361,woonfunctie,120,in gebruik
-0370010000001357,industriefunctie,253,in gebruik
-0370010000001357,industriefunctie,335,in gebruik
-0370010000001570,industriefunctie,330,in gebruik
-0370010000001570,industriefunctie,651,in gebruik
-0373010000003738,woonfunctie,111,in gebruik
-0373010000006970,woonfunctie,141,in gebruik
-0373010000020475,woonfunctie,360,in gebruik
-0375010000005899,woonfunctie,144,in gebruik
-0375010000005994,industriefunctie,684,in gebruik
-0375010000005994,industriefunctie,613,in gebruik
-0375010000006452,woonfunctie,173,in gebruik
-0375010000006472,industriefunctie,437,in gebruik
-0375010000006687,kantoorfunctie,396,in gebruik
-0375010000007683,kantoorfunctie,672,in gebruik
-0375010000009803,woonfunctie,75,in gebruik
-0375010000010647,woonfunctie,128,in gebruik
-0375010000011647,woonfunctie,101,in gebruik
-0375010000012221,industriefunctie,1910,in gebruik
-0375010000012221,industriefunctie,2001,in gebruik
-0375010000012227,industriefunctie,317,in gebruik
-0375010000012227,industriefunctie,290,in gebruik
-0375010000012711,woonfunctie,99,in gebruik
-0375010000014080,industriefunctie,2266,in gebruik
-0375010000014080,industriefunctie,2449,in gebruik
-0375010000014442,woonfunctie,71,in gebruik
-0375010000014442,woonfunctie,71,ingetrokken
-0375010000019345,kantoorfunctie,1112,in gebruik
-0375010000020209,industriefunctie,667,in gebruik
-0375010000021340,bijeenkomstfunctie,228,in gebruik
-0375010000021340,winkelfunctie,115,in gebruik
-0375010000022769,kantoorfunctie,880,in gebruik
-0375010000401515,industriefunctie,364,in gebruik (niet ingemeten)
-0375010000401515,industriefunctie,364,in gebruik
-0375010000403731,woonfunctie,232,gevormd
-0375010000403731,woonfunctie,232,in gebruik (niet ingemeten)
-0375010000403731,woonfunctie,232,in gebruik
-0376010001006729,woonfunctie,164,gevormd
-0376010001006729,woonfunctie,164,gevormd
-0376010001006729,woonfunctie,182,gevormd
-0376010001006729,woonfunctie,182,in gebruik (niet ingemeten)
-0376010001006729,woonfunctie,182,in gebruik
-0377010000000694,woonfunctie,149,in gebruik
-0377010000011428,woonfunctie,175,in gebruik
-0377010000011428,woonfunctie,331,in gebruik
-0381010000027020,woonfunctie,999999,in gebruik
-0381010000027020,woonfunctie,60,in gebruik
-0381010000027824,woonfunctie,205,in gebruik
-0381010000027824,woonfunctie,251,in gebruik (niet ingemeten)
-0381010000027824,woonfunctie,251,in gebruik (niet ingemeten)
-0381010000027824,woonfunctie,251,in gebruik
-0381010000031119,woonfunctie,148,in gebruik
-0381010000031268,woonfunctie,176,in gebruik
-0383010001001337,woonfunctie,87,in gebruik
-0383010001001337,woonfunctie,34,in gebruik (niet ingemeten)
-0383010001001337,woonfunctie,34,in gebruik (niet ingemeten)
-0383010001001337,woonfunctie,34,in gebruik (niet ingemeten)
-0383010001001337,woonfunctie,121,in gebruik (niet ingemeten)
-0383010001001337,woonfunctie,121,in gebruik (niet ingemeten)
-0383010001001337,woonfunctie,121,in gebruik (niet ingemeten)
-0383010001001337,woonfunctie,121,in gebruik
-0383010001004994,woonfunctie,88,in gebruik
-0383010001006910,woonfunctie,140,in gebruik
-0383010001007956,woonfunctie,84,in gebruik
-0383010001011000,woonfunctie,157,in gebruik
-0383010001017132,industriefunctie,2199,in gebruik
-0384010000001527,woonfunctie,154,in gebruik
-0384010000003278,woonfunctie,82,in gebruik
-0384010000005250,woonfunctie,97,in gebruik
-0384010000006699,industriefunctie,999999,in gebruik
-0384010000006699,industriefunctie,808,in gebruik
-0384010000006699,overige gebruiksfunctie,808,in gebruik
-0384010000007501,woonfunctie,115,in gebruik
-0384010000007778,industriefunctie,222,in gebruik
-0384010000007778,bijeenkomstfunctie,222,in gebruik
-0384010000011104,woonfunctie,110,in gebruik
-0384010000017857,woonfunctie,116,gevormd
-0384010000017857,woonfunctie,116,in gebruik (niet ingemeten)
-0384010000017857,woonfunctie,116,in gebruik
-0385010000001090,industriefunctie,1049,in gebruik
-0385010000002283,industriefunctie,7359,in gebruik
-0385010000002283,industriefunctie,7464,in gebruik (niet ingemeten)
-0385010000002283,industriefunctie,7464,in gebruik (niet ingemeten)
-0385010000002283,industriefunctie,7480,in gebruik (niet ingemeten)
-0385010000002283,industriefunctie,7665,in gebruik (niet ingemeten)
-0385010000003064,woonfunctie,130,in gebruik
-0385010000003766,industriefunctie,190,in gebruik
-0385010000004169,bijeenkomstfunctie,246,in gebruik
-0385010000006696,winkelfunctie,5681,in gebruik
-0385010000013241,woonfunctie,107,in gebruik
-0385010000013946,woonfunctie,218,in gebruik
-0388010000221256,woonfunctie,110,in gebruik
-0388010000221256,woonfunctie,103,in gebruik
-0388010000225902,woonfunctie,164,in gebruik
-0388010000225902,woonfunctie,174,in gebruik
-0392010000001853,kantoorfunctie,999999,in gebruik
-0392010000001853,kantoorfunctie,4415,in gebruik
-0392010000008245,woonfunctie,89,in gebruik
-0392010000028738,woonfunctie,125,in gebruik
-0392010000031278,woonfunctie,116,in gebruik
-0392010000032823,woonfunctie,999999,in gebruik
-0392010000032823,woonfunctie,81,in gebruik
-0392010000054745,woonfunctie,76,in gebruik
-0392010000057076,woonfunctie,79,in gebruik
-0392010000058642,woonfunctie,82,in gebruik
-0392010000088104,kantoorfunctie,999999,in gebruik
-0392010000088104,kantoorfunctie,684,in gebruik
-0392010000088162,kantoorfunctie,999999,in gebruik
-0392010000088162,kantoorfunctie,763,in gebruik
-0392010000088162,kantoorfunctie,763,in gebruik
-0392010000088861,industriefunctie,344,in gebruik
-0392010000088861,industriefunctie,344,ingetrokken
-0392010000090605,onderwijsfunctie,2189,in gebruik
-0392010000093772,kantoorfunctie,3135,in gebruik
-0392010000093772,kantoorfunctie,1450,gevormd
-0392010000094030,industriefunctie,999999,in gebruik
-0392010000094030,industriefunctie,5750,in gebruik
-0392010000094030,industriefunctie,1893,in gebruik
-0392010000094030,industriefunctie,1893,in gebruik
-0392010000094423,industriefunctie,999999,in gebruik
-0392010000094423,industriefunctie,108,in gebruik
-0392010000094423,industriefunctie,108,in gebruik
-0392010000096550,woonfunctie,165,gevormd
-0392010000096550,woonfunctie,165,in gebruik (niet ingemeten)
-0392010000096550,woonfunctie,165,in gebruik
-0392010000097318,woonfunctie,94,gevormd
-0392010000097318,woonfunctie,94,in gebruik (niet ingemeten)
-0392010000097318,woonfunctie,94,in gebruik
-0392010000105830,industriefunctie,166,in gebruik
-0392010000105830,industriefunctie,166,in gebruik
-0393010000001299,industriefunctie,468,in gebruik
-0393010000002294,industriefunctie,3747,in gebruik
-0393010000002294,kantoorfunctie,3747,in gebruik
-0394010000279523,woonfunctie,108,in gebruik
-0394010000279523,woonfunctie,108,in gebruik (niet ingemeten)
-0394010000279523,woonfunctie,108,in gebruik
-0394010000280214,woonfunctie,186,in gebruik
-0394010000280585,industriefunctie,3653,in gebruik
-0394010000280809,woonfunctie,87,in gebruik
-0394010000280809,woonfunctie,87,in gebruik
-0394010000282300,industriefunctie,10087,in gebruik
-0394010000282300,industriefunctie,10087,in gebruik
-0394010000282300,industriefunctie,9149,in gebruik
-0394010000282300,industriefunctie,9319,in gebruik
-0394010000283024,industriefunctie,4012,in gebruik
-0394010000283484,industriefunctie,776,in gebruik
-0394010000284632,industriefunctie,574,in gebruik
-0394010000284887,kantoorfunctie,1597,in gebruik
-0394010000284887,kantoorfunctie,1597,ingetrokken
-0394010000285980,kantoorfunctie,270,in gebruik
-0394010000286320,woonfunctie,144,in gebruik
-0394010000286320,woonfunctie,144,in gebruik
-0394010000286841,industriefunctie,274,in gebruik
-0394010000287172,industriefunctie,16920,in gebruik
-0394010000287779,woonfunctie,98,in gebruik
-0394010000288714,industriefunctie,718,in gebruik
-0394010000288789,industriefunctie,1273,in gebruik
-0394010000289259,woonfunctie,159,in gebruik
-0394010000289259,woonfunctie,159,in gebruik
-0394010000289376,woonfunctie,2859,in gebruik
-0394010000289376,woonfunctie,278,in gebruik
-0394010000289720,woonfunctie,141,in gebruik
-0394010000290459,woonfunctie,119,in gebruik
-0394010000291510,woonfunctie,106,in gebruik
-0394010000292926,industriefunctie,1434,in gebruik
-0394010000292991,industriefunctie,842,in gebruik
-0394010000293167,industriefunctie,1660,in gebruik
-0394010000294434,industriefunctie,2254,in gebruik
-0394010000294434,industriefunctie,3476,in gebruik (niet ingemeten)
-0394010000294434,industriefunctie,3476,in gebruik
-0394010000294691,woonfunctie,122,in gebruik
-0394010000295017,kantoorfunctie,173,in gebruik
-0394010000295644,woonfunctie,186,in gebruik
-0394010000295810,kantoorfunctie,610,in gebruik
-0394010000296242,woonfunctie,117,in gebruik
-0394010000296941,industriefunctie,593,in gebruik
-0394010000297512,industriefunctie,11531,in gebruik
-0394010000297575,woonfunctie,105,in gebruik
-0394010000297575,woonfunctie,121,in gebruik
-0394010000299114,industriefunctie,1462,in gebruik
-0394010000299350,winkelfunctie,3187,in gebruik
-0394010000299376,industriefunctie,23226,in gebruik
-0394010000299376,industriefunctie,23226,ingetrokken
-0394010000300704,woonfunctie,98,in gebruik
-0394010000300704,woonfunctie,98,ingetrokken
-0394010000301024,industriefunctie,6082,in gebruik
-0394010000302220,industriefunctie,931,in gebruik
-0394010000302220,industriefunctie,931,in gebruik
-0394010000302220,industriefunctie,735,in gebruik
-0394010000302292,industriefunctie,4364,in gebruik
-0394010000302496,woonfunctie,251,in gebruik
-0394010000302684,woonfunctie,115,in gebruik
-0394010000302947,industriefunctie,352,in gebruik
-0394010000302950,industriefunctie,999999,in gebruik
-0394010000302950,industriefunctie,1015,in gebruik
-0394010000302968,overige gebruiksfunctie,10371,in gebruik
-0394010000302992,kantoorfunctie,1088,in gebruik
-0394010000304497,woonfunctie,155,in gebruik
-0394010000304841,woonfunctie,140,in gebruik
-0394010000304909,industriefunctie,680,in gebruik
-0394010000305040,kantoorfunctie,1042,in gebruik
-0394010000305469,woonfunctie,109,in gebruik
-0394010000307064,woonfunctie,80,in gebruik
-0394010000307504,woonfunctie,81,in gebruik
-0394010000309830,industriefunctie,624,in gebruik
-0394010000310511,woonfunctie,161,in gebruik
-0394010000311160,woonfunctie,137,in gebruik
-0394010000312086,woonfunctie,130,in gebruik
-0394010000312301,woonfunctie,122,in gebruik
-0394010000312382,industriefunctie,25050,in gebruik
-0394010000312583,woonfunctie,125,in gebruik
-0394010000312667,industriefunctie,814,in gebruik
-0394010000313169,kantoorfunctie,2226,in gebruik
-0394010000314115,industriefunctie,275,in gebruik
-0394010000314627,industriefunctie,34312,in gebruik
-0394010000314901,woonfunctie,165,in gebruik
-0394010000315280,industriefunctie,4219,in gebruik
-0394010000315280,industriefunctie,473,in gebruik (niet ingemeten)
-0394010000315280,industriefunctie,473,in gebruik
-0394010000317713,industriefunctie,308,in gebruik
-0394010000320120,industriefunctie,526,in gebruik
-0394010000320141,industriefunctie,5175,in gebruik
-0394010000320401,woonfunctie,62,in gebruik
-0394010000320401,woonfunctie,62,in gebruik (niet ingemeten)
-0394010000320401,woonfunctie,62,in gebruik
-0394010000321105,woonfunctie,319,in gebruik
-0394010000321562,industriefunctie,1725,in gebruik
-0394010000321562,industriefunctie,1725,ingetrokken
-0394010000321783,kantoorfunctie,83,in gebruik
-0394010000321891,kantoorfunctie,5489,in gebruik
-0394010000322485,industriefunctie,1075,in gebruik
-0394010000322678,industriefunctie,698,in gebruik
-0394010000322678,industriefunctie,698,in gebruik (niet ingemeten)
-0394010000322678,industriefunctie,698,in gebruik
-0394010000325328,industriefunctie,6623,in gebruik
-0394010000325328,industriefunctie,7000,in gebruik
-0394010000325328,industriefunctie,8000,in gebruik (niet ingemeten)
-0394010000325328,industriefunctie,8000,in gebruik
-0394010000325328,industriefunctie,9289,in gebruik (niet ingemeten)
-0394010000325328,industriefunctie,9289,in gebruik
-0394010000325698,kantoorfunctie,861,in gebruik
-0394010000325708,industriefunctie,1052,in gebruik
-0394010000325723,woonfunctie,105,in gebruik
-0394010000325733,kantoorfunctie,5299,in gebruik
-0394010000325888,industriefunctie,272,in gebruik
-0394010000326243,industriefunctie,164,in gebruik
-0394010000326243,industriefunctie,164,in gebruik
-0394010000327033,industriefunctie,244,in gebruik
-0394010000327812,industriefunctie,1071,in gebruik
-0394010000327974,woonfunctie,95,in gebruik
-0394010000328119,kantoorfunctie,513,in gebruik
-0394010000328293,kantoorfunctie,2194,in gebruik
-0394010000328329,woonfunctie,443,in gebruik
-0394010000328343,woonfunctie,128,in gebruik
-0394010000328534,industriefunctie,3096,in gebruik
-0394010000329355,industriefunctie,3856,in gebruik
-0394010000329852,woonfunctie,107,in gebruik
-0394010000331687,industriefunctie,290,in gebruik
-0394010000332231,woonfunctie,134,in gebruik
-0394010000332233,industriefunctie,550,in gebruik
-0394010000333209,kantoorfunctie,50,in gebruik
-0394010000333209,kantoorfunctie,50,ingetrokken
-0394010000333959,industriefunctie,3363,in gebruik
-0394010000334213,industriefunctie,440,in gebruik
-0394010000334358,woonfunctie,114,in gebruik
-0394010000334690,kantoorfunctie,2411,in gebruik
-0394010000335296,kantoorfunctie,200,in gebruik
-0394010000335514,industriefunctie,142,in gebruik
-0394010000336391,woonfunctie,76,in gebruik
-0394010000336916,woonfunctie,103,in gebruik
-0394010000337545,kantoorfunctie,999999,in gebruik
-0394010000337545,kantoorfunctie,295,in gebruik
-0394010000338457,industriefunctie,2687,in gebruik
-0394010000338463,kantoorfunctie,1647,in gebruik
-0394010000338490,woonfunctie,183,in gebruik
-0394010000338490,woonfunctie,251,in gebruik (niet ingemeten)
-0394010000338490,woonfunctie,251,in gebruik
-0394010000338650,industriefunctie,19203,in gebruik
-0394010000338767,industriefunctie,440,in gebruik
-0394010000338889,industriefunctie,2500,in gebruik
-0394010000339993,industriefunctie,999999,in gebruik
-0394010000339993,industriefunctie,4160,in gebruik
-0394010000339993,industriefunctie,2340,in gebruik
-0394010000340147,kantoorfunctie,999999,in gebruik
-0394010000340147,kantoorfunctie,356,in gebruik
-0394010000340149,kantoorfunctie,999999,in gebruik
-0394010000340149,kantoorfunctie,356,in gebruik
-0394010000340155,kantoorfunctie,999999,in gebruik
-0394010000340155,kantoorfunctie,4170,in gebruik
-0394010000340248,industriefunctie,999999,in gebruik
-0394010000340248,industriefunctie,920,in gebruik
-0394010000340383,kantoorfunctie,999999,in gebruik
-0394010000340383,kantoorfunctie,799,in gebruik
-0394010000340403,kantoorfunctie,999999,in gebruik
-0394010000340403,kantoorfunctie,458,in gebruik
-0394010000340525,kantoorfunctie,999999,in gebruik
-0394010000340525,kantoorfunctie,778,in gebruik
-0394010000340526,kantoorfunctie,999999,in gebruik
-0394010000340526,kantoorfunctie,582,in gebruik
-0394010000340580,industriefunctie,999999,in gebruik
-0394010000340580,industriefunctie,610,in gebruik
-0394010000340580,industriefunctie,610,in gebruik
-0394010000340625,industriefunctie,202,in gebruik
-0394010000340691,kantoorfunctie,235,in gebruik
-0394010000340966,industriefunctie,999999,in gebruik
-0394010000340966,industriefunctie,95,in gebruik
-0394010000341032,industriefunctie,350,in gebruik
-0394010000341039,industriefunctie,999999,in gebruik
-0394010000341039,industriefunctie,1037,in gebruik
-0394010000341039,industriefunctie,1349,in gebruik
-0394010000341666,industriefunctie,999999,in gebruik
-0394010000341666,industriefunctie,404,in gebruik
-0394010000341757,kantoorfunctie,999999,in gebruik
-0394010000341757,kantoorfunctie,475,in gebruik
-0394010000341789,kantoorfunctie,400,in gebruik
-0394010000341793,industriefunctie,294,in gebruik
-0394010000341794,industriefunctie,294,in gebruik
-0394010000342061,kantoorfunctie,999999,in gebruik
-0394010000342061,kantoorfunctie,295,in gebruik
-0394010000342176,industriefunctie,440,in gebruik
-0394010000342274,kantoorfunctie,999999,in gebruik
-0394010000342274,kantoorfunctie,122,in gebruik
-0394010000342274,kantoorfunctie,234,in gebruik
-0394010000342712,kantoorfunctie,999999,in gebruik
-0394010000342712,kantoorfunctie,1050,in gebruik
-0394010000343309,industriefunctie,999999,in gebruik
-0394010000343309,industriefunctie,744,in gebruik
-0394010000344157,industriefunctie,215,in gebruik
-0394010000344157,industriefunctie,215,in gebruik (niet ingemeten)
-0394010000344157,industriefunctie,215,in gebruik
-0394010000344686,industriefunctie,535,in gebruik
-0394010000346868,industriefunctie,18330,in gebruik
-0394010000346868,industriefunctie,18330,in gebruik
-0394010000346870,industriefunctie,6119,in gebruik
-0394010000346870,industriefunctie,6119,in gebruik
-0394010000347019,industriefunctie,215,in gebruik
-0394010000347019,industriefunctie,215,in gebruik (niet ingemeten)
-0394010000347019,industriefunctie,215,in gebruik
-0394010000347296,industriefunctie,210,in gebruik
-0394010000347296,industriefunctie,210,in gebruik (niet ingemeten)
-0394010000347296,industriefunctie,210,in gebruik
-0394010000347296,industriefunctie,210,in gebruik (niet ingemeten)
-0394010000347296,industriefunctie,210,in gebruik
-0394010001001084,woonfunctie,166,gevormd
-0394010001001084,woonfunctie,166,in gebruik (niet ingemeten)
-0394010001001084,woonfunctie,166,in gebruik (niet ingemeten)
-0394010001001084,woonfunctie,166,in gebruik
-0394010001001107,industriefunctie,300,in gebruik
-0394010001001269,overige gebruiksfunctie,1400,gevormd
-0394010001001269,overige gebruiksfunctie,1400,in gebruik (niet ingemeten)
-0394010001001269,overige gebruiksfunctie,1400,in gebruik
-0394010001001462,kantoorfunctie,24000,in gebruik (niet ingemeten)
-0394010001001462,kantoorfunctie,24000,in gebruik
-0394010001001500,kantoorfunctie,1100,in gebruik
-0394010001001500,kantoorfunctie,1100,in gebruik
-0394010001001768,kantoorfunctie,250,in gebruik
-0394010001001768,kantoorfunctie,250,in gebruik
-0394010001001768,kantoorfunctie,861,in gebruik (niet ingemeten)
-0394010001001768,kantoorfunctie,861,in gebruik
-0394010001001778,kantoorfunctie,250,in gebruik
-0394010001001778,kantoorfunctie,250,in gebruik
-0394010001001778,kantoorfunctie,25,in gebruik (niet ingemeten)
-0394010001001778,kantoorfunctie,25,in gebruik
-0394010001001873,kantoorfunctie,2950,in gebruik
-0394010001001873,kantoorfunctie,2950,in gebruik
-0394010001001876,kantoorfunctie,2950,in gebruik
-0394010001001876,kantoorfunctie,2950,in gebruik
-0394010001001905,kantoorfunctie,68,in gebruik
-0394010001001905,kantoorfunctie,68,ingetrokken
-0394010001002054,industriefunctie,2700,in gebruik
-0394010001002054,industriefunctie,2700,in gebruik
-0394010001002054,industriefunctie,2700,ingetrokken
-0394010001002055,industriefunctie,8900,in gebruik
-0394010001002055,industriefunctie,8900,in gebruik
-0394010001002056,industriefunctie,2000,in gebruik
-0394010001002056,industriefunctie,2000,in gebruik
-0394010001002057,industriefunctie,2000,in gebruik
-0394010001002057,industriefunctie,2000,in gebruik
-0394010001002061,industriefunctie,6831,in gebruik
-0394010001002064,industriefunctie,1575,in gebruik
-0394010001002064,industriefunctie,1575,in gebruik
-0394010001002065,industriefunctie,1575,in gebruik
-0394010001002065,industriefunctie,1575,in gebruik
-0394010001002066,industriefunctie,1575,in gebruik
-0394010001002066,industriefunctie,1575,in gebruik
-0394010001002073,industriefunctie,1575,in gebruik
-0394010001002073,industriefunctie,1575,in gebruik
-0394010001002076,industriefunctie,1575,in gebruik
-0394010001002076,industriefunctie,1575,in gebruik
-0394010001002084,industriefunctie,3400,in gebruik
-0394010001002084,industriefunctie,3400,in gebruik
-0394010001002089,industriefunctie,3100,in gebruik
-0394010001002089,industriefunctie,3100,in gebruik
-0394010001002092,industriefunctie,4900,in gebruik
-0394010001002092,industriefunctie,4900,in gebruik
-0394010001002093,industriefunctie,2500,in gebruik
-0394010001002093,industriefunctie,2500,in gebruik
-0394010001002094,industriefunctie,2500,in gebruik
-0394010001002094,industriefunctie,2500,in gebruik
-0394010001002102,kantoorfunctie,999999,in gebruik
-0394010001002102,kantoorfunctie,36,in gebruik
-0394010001002102,kantoorfunctie,219,in gebruik (niet ingemeten)
-0394010001002102,kantoorfunctie,219,in gebruik
-0394010001002103,kantoorfunctie,999999,in gebruik
-0394010001002103,kantoorfunctie,36,in gebruik
-0394010001002103,kantoorfunctie,359,in gebruik (niet ingemeten)
-0394010001002103,kantoorfunctie,359,in gebruik
-0394010001002104,kantoorfunctie,999999,in gebruik
-0394010001002104,kantoorfunctie,36,in gebruik
-0394010001002104,kantoorfunctie,33,in gebruik (niet ingemeten)
-0394010001002104,kantoorfunctie,33,in gebruik
-0394010001002106,kantoorfunctie,129,in gebruik
-0394010001002106,kantoorfunctie,165,in gebruik (niet ingemeten)
-0394010001002106,kantoorfunctie,165,in gebruik
-0394010001002126,kantoorfunctie,239,in gebruik
-0394010001002126,kantoorfunctie,40,in gebruik (niet ingemeten)
-0394010001002126,kantoorfunctie,40,in gebruik
-0394010001002150,kantoorfunctie,999999,in gebruik
-0394010001002150,kantoorfunctie,398,in gebruik
-0394010001002150,kantoorfunctie,34,in gebruik (niet ingemeten)
-0394010001002150,kantoorfunctie,34,in gebruik
-0394010001002179,industriefunctie,920,in gebruik
-0394010001002179,industriefunctie,920,in gebruik
-0394010001002182,industriefunctie,920,in gebruik
-0394010001002182,industriefunctie,920,in gebruik
-0394010001002187,industriefunctie,3900,in gebruik (niet ingemeten)
-0394010001002187,industriefunctie,3900,in gebruik (niet ingemeten)
-0394010001002187,industriefunctie,3900,in gebruik
-0394010001002192,industriefunctie,25634,in gebruik
-0394010001002197,industriefunctie,21600,in gebruik
-0394010001002197,industriefunctie,21600,in gebruik
-0394010001002218,kantoorfunctie,164,in gebruik
-0394010001002218,kantoorfunctie,215,in gebruik (niet ingemeten)
-0394010001002218,kantoorfunctie,215,in gebruik
-0394010001002220,kantoorfunctie,880,in gebruik
-0394010001002220,kantoorfunctie,168,in gebruik (niet ingemeten)
-0394010001002220,kantoorfunctie,168,in gebruik
-0394010001002221,kantoorfunctie,999999,in gebruik
-0394010001002221,kantoorfunctie,880,in gebruik
-0394010001002221,kantoorfunctie,228,in gebruik (niet ingemeten)
-0394010001002221,kantoorfunctie,228,in gebruik
-0394010001002222,kantoorfunctie,999999,in gebruik
-0394010001002222,kantoorfunctie,880,in gebruik
-0394010001002222,kantoorfunctie,189,in gebruik (niet ingemeten)
-0394010001002222,kantoorfunctie,189,in gebruik
-0394010001002223,kantoorfunctie,999999,in gebruik
-0394010001002223,kantoorfunctie,880,in gebruik
-0394010001002223,kantoorfunctie,243,in gebruik (niet ingemeten)
-0394010001002223,kantoorfunctie,243,in gebruik
-0394010001002294,overige gebruiksfunctie,999999,in gebruik
-0394010001002294,overige gebruiksfunctie,999999,ingetrokken
-0394010001002324,overige gebruiksfunctie,999999,in gebruik
-0394010001002324,overige gebruiksfunctie,999999,ingetrokken
-0394010001002392,overige gebruiksfunctie,999999,in gebruik
-0394010001002392,overige gebruiksfunctie,999999,ingetrokken
-0394010001002423,industriefunctie,6700,in gebruik (niet ingemeten)
-0394010001002423,industriefunctie,6700,in gebruik
-0394010001002424,industriefunctie,6700,in gebruik (niet ingemeten)
-0394010001002424,industriefunctie,6700,in gebruik
-0394010001002449,industriefunctie,4430,in gebruik
-0394010001002449,industriefunctie,4430,in gebruik
-0394010001002450,industriefunctie,8169,gevormd
-0394010001002450,industriefunctie,8169,in gebruik (niet ingemeten)
-0394010001002450,industriefunctie,8169,in gebruik
-0394010001002452,industriefunctie,9087,in gebruik
-0394010001002452,industriefunctie,9087,in gebruik
-0394010001002454,industriefunctie,5400,in gebruik
-0394010001002454,industriefunctie,5400,in gebruik
-0394010001002455,industriefunctie,5400,in gebruik
-0394010001002455,industriefunctie,5400,in gebruik
-0394010001002598,industriefunctie,6409,in gebruik (niet ingemeten)
-0394010001002598,industriefunctie,6409,in gebruik
-0394010001003275,overige gebruiksfunctie,185,in gebruik
-0394010001003275,overige gebruiksfunctie,256,in gebruik
-0394010001003275,industriefunctie,256,in gebruik
-0394010001003288,overige gebruiksfunctie,120,gevormd
-0394010001003288,overige gebruiksfunctie,120,in gebruik (niet ingemeten)
-0394010001003288,overige gebruiksfunctie,120,in gebruik
-0394010001003288,industriefunctie,120,in gebruik
-0394010001003610,industriefunctie,8300,gevormd
-0394010001003610,industriefunctie,8300,in gebruik (niet ingemeten)
-0394010001003610,industriefunctie,8300,in gebruik
-0394010001003629,kantoorfunctie,4350,in gebruik (niet ingemeten)
-0394010001003629,kantoorfunctie,4350,in gebruik
-0394010001003810,kantoorfunctie,3200,in gebruik (niet ingemeten)
-0394010001003810,kantoorfunctie,3200,in gebruik
-0394010001004074,woonfunctie,65,gevormd
-0394010001004074,woonfunctie,65,in gebruik (niet ingemeten)
-0394010001004074,woonfunctie,65,in gebruik
-0394010001004993,industriefunctie,4560,in gebruik
-0394010001004993,industriefunctie,4560,in gebruik (niet ingemeten)
-0394010001004993,industriefunctie,4560,in gebruik
-0394010001004996,kantoorfunctie,430,in gebruik
-0394010001004996,kantoorfunctie,430,in gebruik (niet ingemeten)
-0394010001004996,kantoorfunctie,430,in gebruik
-0394010001005019,industriefunctie,5940,gevormd
-0394010001005019,industriefunctie,5940,gevormd
-0394010001005019,industriefunctie,5940,in gebruik
-0394010001005032,winkelfunctie,6052,in gebruik (niet ingemeten)
-0394010001005032,winkelfunctie,6052,in gebruik
-0394010001005291,kantoorfunctie,5230,in gebruik (niet ingemeten)
-0394010001005291,kantoorfunctie,5230,in gebruik
-0394010001005320,kantoorfunctie,1633,gevormd
-0394010001005320,kantoorfunctie,1633,in gebruik (niet ingemeten)
-0394010001005320,kantoorfunctie,1633,in gebruik
-0394010001005325,industriefunctie,300,in gebruik (niet ingemeten)
-0394010001005325,industriefunctie,300,in gebruik (niet ingemeten)
-0394010001005325,industriefunctie,316,in gebruik (niet ingemeten)
-0394010001005325,industriefunctie,316,in gebruik
-0394010001005382,winkelfunctie,134601,in gebruik (niet ingemeten)
-0394010001005382,winkelfunctie,134601,in gebruik
-0394010001005385,winkelfunctie,5344,in gebruik (niet ingemeten)
-0394010001005385,winkelfunctie,5344,in gebruik
-0394010001005536,kantoorfunctie,2801,in gebruik (niet ingemeten)
-0394010001005536,kantoorfunctie,2801,in gebruik
-0394010001005537,kantoorfunctie,1383,in gebruik (niet ingemeten)
-0394010001005537,kantoorfunctie,1383,in gebruik
-0394010001005594,woonfunctie,543,gevormd
-0394010001005594,woonfunctie,543,in gebruik (niet ingemeten)
-0394010001005594,woonfunctie,543,in gebruik
-0394010001005662,kantoorfunctie,1637,in gebruik (niet ingemeten)
-0394010001005662,kantoorfunctie,1637,in gebruik
-0394010001005732,industriefunctie,587,in gebruik (niet ingemeten)
-0394010001005732,industriefunctie,587,in gebruik
-0394010001006244,industriefunctie,916,in gebruik (niet ingemeten)
-0394010001006244,industriefunctie,916,in gebruik
-0394010001006256,industriefunctie,1755,in gebruik (niet ingemeten)
-0394010001006256,industriefunctie,1755,in gebruik
-0394010001006256,industriefunctie,1755,ingetrokken
-0394010001006267,kantoorfunctie,110,in gebruik (niet ingemeten)
-0394010001006267,kantoorfunctie,110,in gebruik
-0394010001006618,industriefunctie,7774,gevormd
-0394010001006618,industriefunctie,7774,in gebruik (niet ingemeten)
-0394010001006618,industriefunctie,7774,in gebruik
-0394010001006618,industriefunctie,12464,in gebruik (niet ingemeten)
-0394010001006814,industriefunctie,6908,in gebruik
-0394010001007636,woonfunctie,134,gevormd
-0394010001007636,woonfunctie,134,gevormd
-0394010001007636,woonfunctie,134,in gebruik
-0394010001007902,industriefunctie,156,in gebruik (niet ingemeten)
-0394010001007902,industriefunctie,156,in gebruik
-0394010001007912,industriefunctie,50,in gebruik (niet ingemeten)
-0394010001007912,industriefunctie,50,in gebruik
-0394010001007984,industriefunctie,873,gevormd
-0394010001008106,kantoorfunctie,1122,gevormd
-0394010001008106,kantoorfunctie,1122,in gebruik (niet ingemeten)
-0394010001008106,kantoorfunctie,1122,in gebruik
-0394010001008394,woonfunctie,196,gevormd
-0394010001008394,woonfunctie,196,in gebruik (niet ingemeten)
-0394010001008394,woonfunctie,196,in gebruik
-0394010001008428,industriefunctie,1000,gevormd
-0394010001008428,industriefunctie,1000,in gebruik (niet ingemeten)
-0394010001008428,industriefunctie,1000,in gebruik
-0394010001008446,kantoorfunctie,36645,in gebruik (niet ingemeten)
-0394010001008446,kantoorfunctie,36645,in gebruik
-0394010001008887,kantoorfunctie,5475,gevormd
-0394010001008887,kantoorfunctie,5475,gevormd
-0394010001008887,kantoorfunctie,5475,in gebruik
-0394010001009038,industriefunctie,5260,gevormd
-0394010001009220,kantoorfunctie,512,in gebruik (niet ingemeten)
-0394010001009220,kantoorfunctie,512,in gebruik
-0394010001009228,kantoorfunctie,443,in gebruik (niet ingemeten)
-0394010001009228,kantoorfunctie,443,in gebruik
-0394010001009979,industriefunctie,5087,in gebruik (niet ingemeten)
-0394010001009979,industriefunctie,5087,in gebruik
-0394010001009980,industriefunctie,5087,in gebruik (niet ingemeten)
-0394010001009980,industriefunctie,5087,in gebruik
-0394010001009981,industriefunctie,5267,in gebruik (niet ingemeten)
-0394010001009981,industriefunctie,5267,in gebruik
-0394010001010055,industriefunctie,7120,gevormd
-0394010001010055,industriefunctie,2726,gevormd
-0394010001010055,industriefunctie,2726,gevormd
-0394010001010055,industriefunctie,2726,gevormd
-0394010001010055,industriefunctie,2726,in gebruik
-0394010001010103,industriefunctie,192,in gebruik (niet ingemeten)
-0394010001010103,industriefunctie,192,in gebruik
-0394010001010104,industriefunctie,152,in gebruik (niet ingemeten)
-0394010001010104,industriefunctie,152,in gebruik
-0394010001010107,industriefunctie,6348,in gebruik (niet ingemeten)
-0394010001010107,industriefunctie,6348,in gebruik
-0394010001010108,industriefunctie,72,in gebruik (niet ingemeten)
-0394010001010108,industriefunctie,72,in gebruik
-0394010001010110,industriefunctie,1000,in gebruik (niet ingemeten)
-0394010001010110,industriefunctie,1000,in gebruik
-0394010001010115,industriefunctie,150,in gebruik (niet ingemeten)
-0394010001010115,industriefunctie,150,in gebruik
-0394010001010117,industriefunctie,133,in gebruik (niet ingemeten)
-0394010001010117,industriefunctie,133,in gebruik
-0394010001010119,industriefunctie,103,in gebruik (niet ingemeten)
-0394010001010119,industriefunctie,103,in gebruik
-0394010001010122,industriefunctie,100,in gebruik (niet ingemeten)
-0394010001010122,industriefunctie,100,in gebruik
-0394010001010128,industriefunctie,240,in gebruik (niet ingemeten)
-0394010001010128,industriefunctie,240,in gebruik
-0394010001010129,industriefunctie,75,in gebruik (niet ingemeten)
-0394010001010129,industriefunctie,75,in gebruik
-0394010001010131,industriefunctie,249,in gebruik (niet ingemeten)
-0394010001010131,industriefunctie,249,in gebruik
-0394010001010132,industriefunctie,92,in gebruik (niet ingemeten)
-0394010001010132,industriefunctie,92,in gebruik
-0394010001010135,industriefunctie,120,in gebruik (niet ingemeten)
-0394010001010135,industriefunctie,120,in gebruik
-0394010001010136,industriefunctie,119,in gebruik (niet ingemeten)
-0394010001010136,industriefunctie,119,in gebruik
-0394010001010137,industriefunctie,584,in gebruik (niet ingemeten)
-0394010001010137,industriefunctie,584,in gebruik
-0394010001010140,industriefunctie,142,in gebruik (niet ingemeten)
-0394010001010140,industriefunctie,142,in gebruik
-0394010001010143,industriefunctie,122,in gebruik (niet ingemeten)
-0394010001010143,industriefunctie,122,in gebruik
-0394010001010144,industriefunctie,205,in gebruik (niet ingemeten)
-0394010001010144,industriefunctie,205,in gebruik
-0394010001010145,industriefunctie,3149,in gebruik (niet ingemeten)
-0394010001010145,industriefunctie,3149,in gebruik
-0394010001010365,industriefunctie,8110,gevormd
-0394010001010365,industriefunctie,8110,gevormd
-0394010001010365,industriefunctie,8110,in gebruik
-0394010001010769,industriefunctie,5393,gevormd
-0394010001010769,industriefunctie,2630,gevormd
-0394010001010769,industriefunctie,2630,in gebruik (niet ingemeten)
-0394010001010769,industriefunctie,2630,in gebruik
-0394010001010860,industriefunctie,6423,gevormd
-0394010001010860,industriefunctie,6423,gevormd
-0394010001010860,industriefunctie,6423,in gebruik
-0394010001010882,industriefunctie,2682,gevormd
-0394010001010882,industriefunctie,2682,in gebruik (niet ingemeten)
-0394010001010882,industriefunctie,2682,in gebruik
-0394010001012396,industriefunctie,78,in gebruik (niet ingemeten)
-0394010001012396,industriefunctie,78,in gebruik
-0395010000001769,woonfunctie,94,in gebruik
-0395010000002191,industriefunctie,157,in gebruik
-0395010000002191,industriefunctie,175,in gebruik
-0395010000007842,woonfunctie,151,in gebruik
-0396010001000318,overige gebruiksfunctie,75,in gebruik
-0396010001000318,kantoorfunctie,75,in gebruik
-0396010001009554,woonfunctie,131,in gebruik
-0396010001009608,woonfunctie,115,in gebruik
-0396010001014994,woonfunctie,174,in gebruik
-0396010001020083,kantoorfunctie,2100,in gebruik
-0397010000002079,woonfunctie,150,in gebruik
-0397010000007895,woonfunctie,93,in gebruik
-0397010000009501,woonfunctie,50,in gebruik
-0397010000011318,woonfunctie,153,in gebruik
-0397010000012487,industriefunctie,218,gevormd
-0397010000012487,industriefunctie,106,gevormd
-0397010000012487,industriefunctie,106,in gebruik (niet ingemeten)
-0397010000012487,industriefunctie,106,in gebruik
-0398010000001790,woonfunctie,180,in gebruik
-0398010000007107,industriefunctie,307,in gebruik
-0398010000007225,woonfunctie,97,in gebruik
-0398010000008228,industriefunctie,16758,in gebruik
-0398010000008228,industriefunctie,16758,in gebruik
-0398010000008228,industriefunctie,17640,in gebruik
-0398010000008228,industriefunctie,17640,in gebruik
-0398010000021024,woonfunctie,113,in gebruik
-0398010000025150,woonfunctie,112,gevormd
-0398010000025150,woonfunctie,112,in gebruik (niet ingemeten)
-0398010000025150,woonfunctie,112,in gebruik
-0398010000026163,industriefunctie,298,gevormd
-0398010000026163,industriefunctie,298,in gebruik (niet ingemeten)
-0398010000026163,industriefunctie,298,in gebruik
-0399010000000686,woonfunctie,30,in gebruik
-0399010000000686,woonfunctie,195,in gebruik
-0399010000000686,woonfunctie,198,in gebruik
-0399010000000686,woonfunctie,203,in gebruik
-0399010000010946,industriefunctie,140,in gebruik
-0399010000010946,industriefunctie,308,in gebruik
-0400010000000489,industriefunctie,999999,in gebruik
-0400010000000489,industriefunctie,614,in gebruik
-0400010000000489,industriefunctie,623,in gebruik
-0400010000006291,winkelfunctie,999999,gevormd
-0400010000006291,winkelfunctie,444,gevormd
-0400010000006291,winkelfunctie,444,in gebruik
-0400010000006291,winkelfunctie,421,in gebruik
-0400010000013864,woonfunctie,88,in gebruik
-0400010000017464,woonfunctie,176,in gebruik
-0400010000025371,overige gebruiksfunctie,999999,in gebruik
-0400010000025371,overige gebruiksfunctie,14,in gebruik
-0400010000030709,kantoorfunctie,999999,in gebruik
-0400010000030709,kantoorfunctie,273,in gebruik
-0400010000030709,kantoorfunctie,142,in gebruik
-0400010000037412,woonfunctie,999999,in gebruik
-0400010000037412,woonfunctie,72,in gebruik
-0400010000039541,kantoorfunctie,2525,gevormd
-0400010000039541,kantoorfunctie,2525,in gebruik (niet ingemeten)
-0400010000039541,kantoorfunctie,2525,in gebruik
-0400010000040074,industriefunctie,117,in gebruik
-0400010000040579,kantoorfunctie,1818,in gebruik
-0400010000040581,industriefunctie,1152,in gebruik
-0402010001543057,woonfunctie,111,in gebruik
-0402010001547071,winkelfunctie,166,in gebruik
-0402010001547071,sportfunctie,168,in gebruik (niet ingemeten)
-0402010001547071,sportfunctie,168,in gebruik
-0402010001547071,sportfunctie,168,in gebruik
-0402010001547071,overige gebruiksfunctie,168,in gebruik
-0402010001551967,woonfunctie,153,in gebruik
-0402010001561533,woonfunctie,141,in gebruik
-0402010001561533,woonfunctie,137,in gebruik
-0402010001571134,woonfunctie,197,in gebruik
-0402010001581011,woonfunctie,73,in gebruik
-0402010001587133,winkelfunctie,4234,in gebruik
-0402010001596099,woonfunctie,202,in gebruik
-0402010001596099,woonfunctie,202,in gebruik
-0402010001596099,woonfunctie,202,ingetrokken
-0402010001600581,kantoorfunctie,382,in gebruik
-0402010001626660,woonfunctie,98,in gebruik
-0402010001628773,gezondheidszorgfunctie,184,in gebruik
-0402010001628773,gezondheidszorgfunctie,184,in gebruik (niet ingemeten)
-0402010001628773,gezondheidszorgfunctie,184,in gebruik
-0405010000560365,winkelfunctie,1117,in gebruik
-0405010000564729,winkelfunctie,12953,in gebruik
-0405010000564729,industriefunctie,13415,in gebruik
-0405010000564851,industriefunctie,125,in gebruik
-0405010000572565,woonfunctie,74,in gebruik
-0405010000574851,kantoorfunctie,156,in gebruik
-0405010000587529,industriefunctie,3008,in gebruik
-0405010000587529,industriefunctie,3100,in gebruik (niet ingemeten)
-0405010000591471,woonfunctie,116,in gebruik
-0405010000599067,winkelfunctie,2092,in gebruik
-0405010000599871,kantoorfunctie,1339,in gebruik
-0405010000602349,woonfunctie,100,in gebruik
-0405010000623277,kantoorfunctie,2231,in gebruik
-0405010000623277,kantoorfunctie,2074,in gebruik
-0406010000000653,woonfunctie,317,in gebruik
-0406010000000653,woonfunctie,376,in gebruik
-0406010000006876,woonfunctie,123,in gebruik
-0406010000006876,woonfunctie,126,in gebruik
-0406010000008193,woonfunctie,156,in gebruik
-0406010000008193,woonfunctie,127,in gebruik
-0406010000008193,woonfunctie,128,in gebruik
-0406010000013450,woonfunctie,85,in gebruik
-0406010000013450,woonfunctie,80,in gebruik
-0406010000015993,woonfunctie,68,in gebruik
-0406010000015993,woonfunctie,66,in gebruik
-0406010000043048,woonfunctie,168,in gebruik
-0406010000043048,woonfunctie,170,in gebruik
-0406010000044366,woonfunctie,250,in gebruik
-0406010000044366,woonfunctie,289,in gebruik
-0406010000052068,kantoorfunctie,5822,gevormd
-0406010000052068,kantoorfunctie,7010,gevormd
-0406010000052068,kantoorfunctie,7010,in gebruik (niet ingemeten)
-0406010000052068,kantoorfunctie,7010,in gebruik
-0406010000052068,kantoorfunctie,9750,in gebruik (niet ingemeten)
-0406010000052068,kantoorfunctie,9224,in gebruik
-0412010000575346,woonfunctie,112,in gebruik
-0412010000575346,woonfunctie,119,in gebruik
-0412010000577342,woonfunctie,79,in gebruik
-0412010000578278,woonfunctie,87,in gebruik
-0412010000580514,woonfunctie,154,in gebruik
-0412010000581476,woonfunctie,114,in gebruik
-0412010000582464,woonfunctie,113,in gebruik
-0415010000000237,woonfunctie,77,gevormd
-0415010000000237,woonfunctie,77,in gebruik
-0415010000002256,woonfunctie,118,in gebruik
-0415010000003501,woonfunctie,123,gevormd
-0415010000003501,woonfunctie,123,in gebruik (niet ingemeten)
-0415010000003501,woonfunctie,123,in gebruik
-0415010000003570,woonfunctie,434,in gebruik
-0415010000004402,woonfunctie,132,in gebruik (niet ingemeten)
-0415010000004402,woonfunctie,132,in gebruik
-0416010000216434,woonfunctie,131,in gebruik
-0416010000216434,woonfunctie,149,in gebruik
-0416010000222294,woonfunctie,103,in gebruik
-0416010000247473,woonfunctie,186,gevormd
-0416010000247473,woonfunctie,186,gevormd
-0416010000247473,woonfunctie,186,in gebruik (niet ingemeten)
-0416010000247473,woonfunctie,186,in gebruik
-0417010001001031,woonfunctie,289,in gebruik
-0417010001002071,woonfunctie,162,in gebruik
-0417010001003678,kantoorfunctie,2024,in gebruik
-0417010001003678,kantoorfunctie,1263,in gebruik
-0417010001003772,woonfunctie,571,in gebruik
-0420010000001240,woonfunctie,79,in gebruik
-0420010000006968,woonfunctie,111,in gebruik
-0420010000008210,woonfunctie,120,in gebruik
-0420010000009513,woonfunctie,354,in gebruik
-0420010000009513,woonfunctie,354,ingetrokken
-0420010000010455,logiesfunctie,135,in gebruik
-0420010000010541,woonfunctie,151,in gebruik
-0420010000012016,industriefunctie,33065,in gebruik
-0420010000012016,industriefunctie,33808,in gebruik
-0425010000000853,winkelfunctie,469,in gebruik
-0425010000003089,woonfunctie,69,in gebruik
-0425010000003089,woonfunctie,109,in gebruik
-0425010000006905,woonfunctie,137,in gebruik
-0425010000006933,woonfunctie,182,in gebruik
-0425010000007491,woonfunctie,190,in gebruik
-0431010000003693,woonfunctie,119,in gebruik
-0431010000004544,woonfunctie,138,in gebruik
-0432010000002889,woonfunctie,97,in gebruik
-0437010000000876,kantoorfunctie,223,in gebruik
-0437010000006019,woonfunctie,79,in gebruik
-0437010000006019,woonfunctie,79,in gebruik (niet ingemeten)
-0437010000006019,woonfunctie,79,in gebruik
-0437010000006414,woonfunctie,196,in gebruik
-0437010000006692,kantoorfunctie,2170,in gebruik
-0437010000006692,kantoorfunctie,153,in gebruik
-0437010000006716,woonfunctie,95,in gebruik
-0437010000006809,woonfunctie,95,in gebruik
-0437010000008184,kantoorfunctie,309,gevormd
-0437010000008184,kantoorfunctie,349,in gebruik (niet ingemeten)
-0437010000008184,kantoorfunctie,349,in gebruik
-0437010000008317,woonfunctie,98,in gebruik
-0439010000001171,woonfunctie,128,in gebruik
-0439010000008353,winkelfunctie,2227,in gebruik
-0439010000008353,winkelfunctie,1743,in gebruik
-0439010000008353,winkelfunctie,1743,in gebruik
-0439010000008353,winkelfunctie,1743,ingetrokken
-0439010000011256,industriefunctie,495,in gebruik
-0439010000014472,kantoorfunctie,1054,in gebruik
-0439010000017529,industriefunctie,215,in gebruik
-0439010000017529,industriefunctie,219,in gebruik
-0439010000028736,woonfunctie,119,in gebruik
-0439010000028736,woonfunctie,133,in gebruik
-0439010000029044,woonfunctie,95,in gebruik
-0439010000030712,industriefunctie,182,in gebruik
-0439010000030712,industriefunctie,218,in gebruik
-0439010000030712,industriefunctie,364,in gebruik
-0439010000040785,kantoorfunctie,894,gevormd
-0439010000040785,kantoorfunctie,894,in gebruik
-0439010000040785,kantoorfunctie,894,in gebruik
-0439010000040785,kantoorfunctie,885,in gebruik
-0441010001003086,kantoorfunctie,217,in gebruik
+365010000000458,kantoorfunctie,90,in gebruik
+365010000002040,woonfunctie,92,in gebruik
+365010000002040,woonfunctie,178,in gebruik (niet ingemeten)
+365010000002040,woonfunctie,141,in gebruik
+365010000002629,woonfunctie,108,in gebruik
+365010000002629,woonfunctie,114,in gebruik (niet ingemeten)
+365010000002629,woonfunctie,114,in gebruik
+365010000003137,bijeenkomstfunctie,329,in gebruik
+365010000003137,bijeenkomstfunctie,329,ingetrokken
+365010000003210,woonfunctie,151,in gebruik
+365010000003210,woonfunctie,188,in gebruik
+365010000003210,woonfunctie,176,in gebruik
+365010000003383,kantoorfunctie,207,gevormd
+365010000003383,kantoorfunctie,207,gevormd
+365010000003383,kantoorfunctie,207,in gebruik (niet ingemeten)
+365010000003383,kantoorfunctie,207,in gebruik
+366010000002922,industriefunctie,437,in gebruik
+366010000002922,kantoorfunctie,9708,in gebruik
+366010000002922,kantoorfunctie,9708,in gebruik (niet ingemeten)
+366010000002922,kantoorfunctie,16515,in gebruik (niet ingemeten)
+370010000000361,woonfunctie,120,in gebruik
+370010000001357,industriefunctie,253,in gebruik
+370010000001357,industriefunctie,335,in gebruik
+370010000001570,industriefunctie,330,in gebruik
+370010000001570,industriefunctie,651,in gebruik
+373010000003738,woonfunctie,111,in gebruik
+373010000006970,woonfunctie,141,in gebruik
+373010000020475,woonfunctie,360,in gebruik
+375010000005899,woonfunctie,144,in gebruik
+375010000005994,industriefunctie,684,in gebruik
+375010000005994,industriefunctie,613,in gebruik
+375010000006452,woonfunctie,173,in gebruik
+375010000006472,industriefunctie,437,in gebruik
+375010000006687,kantoorfunctie,396,in gebruik
+375010000007683,kantoorfunctie,672,in gebruik
+375010000009803,woonfunctie,75,in gebruik
+375010000010647,woonfunctie,128,in gebruik
+375010000011647,woonfunctie,101,in gebruik
+375010000012221,industriefunctie,1910,in gebruik
+375010000012221,industriefunctie,2001,in gebruik
+375010000012227,industriefunctie,317,in gebruik
+375010000012227,industriefunctie,290,in gebruik
+375010000012711,woonfunctie,99,in gebruik
+375010000014080,industriefunctie,2266,in gebruik
+375010000014080,industriefunctie,2449,in gebruik
+375010000014442,woonfunctie,71,in gebruik
+375010000014442,woonfunctie,71,ingetrokken
+375010000019345,kantoorfunctie,1112,in gebruik
+375010000020209,industriefunctie,667,in gebruik
+375010000021340,bijeenkomstfunctie,228,in gebruik
+375010000021340,winkelfunctie,115,in gebruik
+375010000022769,kantoorfunctie,880,in gebruik
+375010000401515,industriefunctie,364,in gebruik (niet ingemeten)
+375010000401515,industriefunctie,364,in gebruik
+375010000403731,woonfunctie,232,gevormd
+375010000403731,woonfunctie,232,in gebruik (niet ingemeten)
+375010000403731,woonfunctie,232,in gebruik
+376010001006729,woonfunctie,164,gevormd
+376010001006729,woonfunctie,164,gevormd
+376010001006729,woonfunctie,182,gevormd
+376010001006729,woonfunctie,182,in gebruik (niet ingemeten)
+376010001006729,woonfunctie,182,in gebruik
+377010000000694,woonfunctie,149,in gebruik
+377010000011428,woonfunctie,175,in gebruik
+377010000011428,woonfunctie,331,in gebruik
+381010000027020,woonfunctie,999999,in gebruik
+381010000027020,woonfunctie,60,in gebruik
+381010000027824,woonfunctie,205,in gebruik
+381010000027824,woonfunctie,251,in gebruik (niet ingemeten)
+381010000027824,woonfunctie,251,in gebruik (niet ingemeten)
+381010000027824,woonfunctie,251,in gebruik
+381010000031119,woonfunctie,148,in gebruik
+381010000031268,woonfunctie,176,in gebruik
+383010001001337,woonfunctie,87,in gebruik
+383010001001337,woonfunctie,34,in gebruik (niet ingemeten)
+383010001001337,woonfunctie,34,in gebruik (niet ingemeten)
+383010001001337,woonfunctie,34,in gebruik (niet ingemeten)
+383010001001337,woonfunctie,121,in gebruik (niet ingemeten)
+383010001001337,woonfunctie,121,in gebruik (niet ingemeten)
+383010001001337,woonfunctie,121,in gebruik (niet ingemeten)
+383010001001337,woonfunctie,121,in gebruik
+383010001004994,woonfunctie,88,in gebruik
+383010001006910,woonfunctie,140,in gebruik
+383010001007956,woonfunctie,84,in gebruik
+383010001011000,woonfunctie,157,in gebruik
+383010001017132,industriefunctie,2199,in gebruik
+384010000001527,woonfunctie,154,in gebruik
+384010000003278,woonfunctie,82,in gebruik
+384010000005250,woonfunctie,97,in gebruik
+384010000006699,industriefunctie,999999,in gebruik
+384010000006699,industriefunctie,808,in gebruik
+384010000006699,overige gebruiksfunctie,808,in gebruik
+384010000007501,woonfunctie,115,in gebruik
+384010000007778,industriefunctie,222,in gebruik
+384010000007778,bijeenkomstfunctie,222,in gebruik
+384010000011104,woonfunctie,110,in gebruik
+384010000017857,woonfunctie,116,gevormd
+384010000017857,woonfunctie,116,in gebruik (niet ingemeten)
+384010000017857,woonfunctie,116,in gebruik
+385010000001090,industriefunctie,1049,in gebruik
+385010000002283,industriefunctie,7359,in gebruik
+385010000002283,industriefunctie,7464,in gebruik (niet ingemeten)
+385010000002283,industriefunctie,7464,in gebruik (niet ingemeten)
+385010000002283,industriefunctie,7480,in gebruik (niet ingemeten)
+385010000002283,industriefunctie,7665,in gebruik (niet ingemeten)
+385010000003064,woonfunctie,130,in gebruik
+385010000003766,industriefunctie,190,in gebruik
+385010000004169,bijeenkomstfunctie,246,in gebruik
+385010000006696,winkelfunctie,5681,in gebruik
+385010000013241,woonfunctie,107,in gebruik
+385010000013946,woonfunctie,218,in gebruik
+388010000221256,woonfunctie,110,in gebruik
+388010000221256,woonfunctie,103,in gebruik
+388010000225902,woonfunctie,164,in gebruik
+388010000225902,woonfunctie,174,in gebruik
+392010000001853,kantoorfunctie,999999,in gebruik
+392010000001853,kantoorfunctie,4415,in gebruik
+392010000008245,woonfunctie,89,in gebruik
+392010000028738,woonfunctie,125,in gebruik
+392010000031278,woonfunctie,116,in gebruik
+392010000032823,woonfunctie,999999,in gebruik
+392010000032823,woonfunctie,81,in gebruik
+392010000054745,woonfunctie,76,in gebruik
+392010000057076,woonfunctie,79,in gebruik
+392010000058642,woonfunctie,82,in gebruik
+392010000088104,kantoorfunctie,999999,in gebruik
+392010000088104,kantoorfunctie,684,in gebruik
+392010000088162,kantoorfunctie,999999,in gebruik
+392010000088162,kantoorfunctie,763,in gebruik
+392010000088162,kantoorfunctie,763,in gebruik
+392010000088861,industriefunctie,344,in gebruik
+392010000088861,industriefunctie,344,ingetrokken
+392010000090605,onderwijsfunctie,2189,in gebruik
+392010000093772,kantoorfunctie,3135,in gebruik
+392010000093772,kantoorfunctie,1450,gevormd
+392010000094030,industriefunctie,999999,in gebruik
+392010000094030,industriefunctie,5750,in gebruik
+392010000094030,industriefunctie,1893,in gebruik
+392010000094030,industriefunctie,1893,in gebruik
+392010000094423,industriefunctie,999999,in gebruik
+392010000094423,industriefunctie,108,in gebruik
+392010000094423,industriefunctie,108,in gebruik
+392010000096550,woonfunctie,165,gevormd
+392010000096550,woonfunctie,165,in gebruik (niet ingemeten)
+392010000096550,woonfunctie,165,in gebruik
+392010000097318,woonfunctie,94,gevormd
+392010000097318,woonfunctie,94,in gebruik (niet ingemeten)
+392010000097318,woonfunctie,94,in gebruik
+392010000105830,industriefunctie,166,in gebruik
+392010000105830,industriefunctie,166,in gebruik
+393010000001299,industriefunctie,468,in gebruik
+393010000002294,industriefunctie,3747,in gebruik
+393010000002294,kantoorfunctie,3747,in gebruik
+394010000279523,woonfunctie,108,in gebruik
+394010000279523,woonfunctie,108,in gebruik (niet ingemeten)
+394010000279523,woonfunctie,108,in gebruik
+394010000280214,woonfunctie,186,in gebruik
+394010000280585,industriefunctie,3653,in gebruik
+394010000280809,woonfunctie,87,in gebruik
+394010000280809,woonfunctie,87,in gebruik
+394010000282300,industriefunctie,10087,in gebruik
+394010000282300,industriefunctie,10087,in gebruik
+394010000282300,industriefunctie,9149,in gebruik
+394010000282300,industriefunctie,9319,in gebruik
+394010000283024,industriefunctie,4012,in gebruik
+394010000283484,industriefunctie,776,in gebruik
+394010000284632,industriefunctie,574,in gebruik
+394010000284887,kantoorfunctie,1597,in gebruik
+394010000284887,kantoorfunctie,1597,ingetrokken
+394010000285980,kantoorfunctie,270,in gebruik
+394010000286320,woonfunctie,144,in gebruik
+394010000286320,woonfunctie,144,in gebruik
+394010000286841,industriefunctie,274,in gebruik
+394010000287172,industriefunctie,16920,in gebruik
+394010000287779,woonfunctie,98,in gebruik
+394010000288714,industriefunctie,718,in gebruik
+394010000288789,industriefunctie,1273,in gebruik
+394010000289259,woonfunctie,159,in gebruik
+394010000289259,woonfunctie,159,in gebruik
+394010000289376,woonfunctie,2859,in gebruik
+394010000289376,woonfunctie,278,in gebruik
+394010000289720,woonfunctie,141,in gebruik
+394010000290459,woonfunctie,119,in gebruik
+394010000291510,woonfunctie,106,in gebruik
+394010000292926,industriefunctie,1434,in gebruik
+394010000292991,industriefunctie,842,in gebruik
+394010000293167,industriefunctie,1660,in gebruik
+394010000294434,industriefunctie,2254,in gebruik
+394010000294434,industriefunctie,3476,in gebruik (niet ingemeten)
+394010000294434,industriefunctie,3476,in gebruik
+394010000294691,woonfunctie,122,in gebruik
+394010000295017,kantoorfunctie,173,in gebruik
+394010000295644,woonfunctie,186,in gebruik
+394010000295810,kantoorfunctie,610,in gebruik
+394010000296242,woonfunctie,117,in gebruik
+394010000296941,industriefunctie,593,in gebruik
+394010000297512,industriefunctie,11531,in gebruik
+394010000297575,woonfunctie,105,in gebruik
+394010000297575,woonfunctie,121,in gebruik
+394010000299114,industriefunctie,1462,in gebruik
+394010000299350,winkelfunctie,3187,in gebruik
+394010000299376,industriefunctie,23226,in gebruik
+394010000299376,industriefunctie,23226,ingetrokken
+394010000300704,woonfunctie,98,in gebruik
+394010000300704,woonfunctie,98,ingetrokken
+394010000301024,industriefunctie,6082,in gebruik
+394010000302220,industriefunctie,931,in gebruik
+394010000302220,industriefunctie,931,in gebruik
+394010000302220,industriefunctie,735,in gebruik
+394010000302292,industriefunctie,4364,in gebruik
+394010000302496,woonfunctie,251,in gebruik
+394010000302684,woonfunctie,115,in gebruik
+394010000302947,industriefunctie,352,in gebruik
+394010000302950,industriefunctie,999999,in gebruik
+394010000302950,industriefunctie,1015,in gebruik
+394010000302968,overige gebruiksfunctie,10371,in gebruik
+394010000302992,kantoorfunctie,1088,in gebruik
+394010000304497,woonfunctie,155,in gebruik
+394010000304841,woonfunctie,140,in gebruik
+394010000304909,industriefunctie,680,in gebruik
+394010000305040,kantoorfunctie,1042,in gebruik
+394010000305469,woonfunctie,109,in gebruik
+394010000307064,woonfunctie,80,in gebruik
+394010000307504,woonfunctie,81,in gebruik
+394010000309830,industriefunctie,624,in gebruik
+394010000310511,woonfunctie,161,in gebruik
+394010000311160,woonfunctie,137,in gebruik
+394010000312086,woonfunctie,130,in gebruik
+394010000312301,woonfunctie,122,in gebruik
+394010000312382,industriefunctie,25050,in gebruik
+394010000312583,woonfunctie,125,in gebruik
+394010000312667,industriefunctie,814,in gebruik
+394010000313169,kantoorfunctie,2226,in gebruik
+394010000314115,industriefunctie,275,in gebruik
+394010000314627,industriefunctie,34312,in gebruik
+394010000314901,woonfunctie,165,in gebruik
+394010000315280,industriefunctie,4219,in gebruik
+394010000315280,industriefunctie,473,in gebruik (niet ingemeten)
+394010000315280,industriefunctie,473,in gebruik
+394010000317713,industriefunctie,308,in gebruik
+394010000320120,industriefunctie,526,in gebruik
+394010000320141,industriefunctie,5175,in gebruik
+394010000320401,woonfunctie,62,in gebruik
+394010000320401,woonfunctie,62,in gebruik (niet ingemeten)
+394010000320401,woonfunctie,62,in gebruik
+394010000321105,woonfunctie,319,in gebruik
+394010000321562,industriefunctie,1725,in gebruik
+394010000321562,industriefunctie,1725,ingetrokken
+394010000321783,kantoorfunctie,83,in gebruik
+394010000321891,kantoorfunctie,5489,in gebruik
+394010000322485,industriefunctie,1075,in gebruik
+394010000322678,industriefunctie,698,in gebruik
+394010000322678,industriefunctie,698,in gebruik (niet ingemeten)
+394010000322678,industriefunctie,698,in gebruik
+394010000325328,industriefunctie,6623,in gebruik
+394010000325328,industriefunctie,7000,in gebruik
+394010000325328,industriefunctie,8000,in gebruik (niet ingemeten)
+394010000325328,industriefunctie,8000,in gebruik
+394010000325328,industriefunctie,9289,in gebruik (niet ingemeten)
+394010000325328,industriefunctie,9289,in gebruik
+394010000325698,kantoorfunctie,861,in gebruik
+394010000325708,industriefunctie,1052,in gebruik
+394010000325723,woonfunctie,105,in gebruik
+394010000325733,kantoorfunctie,5299,in gebruik
+394010000325888,industriefunctie,272,in gebruik
+394010000326243,industriefunctie,164,in gebruik
+394010000326243,industriefunctie,164,in gebruik
+394010000327033,industriefunctie,244,in gebruik
+394010000327812,industriefunctie,1071,in gebruik
+394010000327974,woonfunctie,95,in gebruik
+394010000328119,kantoorfunctie,513,in gebruik
+394010000328293,kantoorfunctie,2194,in gebruik
+394010000328329,woonfunctie,443,in gebruik
+394010000328343,woonfunctie,128,in gebruik
+394010000328534,industriefunctie,3096,in gebruik
+394010000329355,industriefunctie,3856,in gebruik
+394010000329852,woonfunctie,107,in gebruik
+394010000331687,industriefunctie,290,in gebruik
+394010000332231,woonfunctie,134,in gebruik
+394010000332233,industriefunctie,550,in gebruik
+394010000333209,kantoorfunctie,50,in gebruik
+394010000333209,kantoorfunctie,50,ingetrokken
+394010000333959,industriefunctie,3363,in gebruik
+394010000334213,industriefunctie,440,in gebruik
+394010000334358,woonfunctie,114,in gebruik
+394010000334690,kantoorfunctie,2411,in gebruik
+394010000335296,kantoorfunctie,200,in gebruik
+394010000335514,industriefunctie,142,in gebruik
+394010000336391,woonfunctie,76,in gebruik
+394010000336916,woonfunctie,103,in gebruik
+394010000337545,kantoorfunctie,999999,in gebruik
+394010000337545,kantoorfunctie,295,in gebruik
+394010000338457,industriefunctie,2687,in gebruik
+394010000338463,kantoorfunctie,1647,in gebruik
+394010000338490,woonfunctie,183,in gebruik
+394010000338490,woonfunctie,251,in gebruik (niet ingemeten)
+394010000338490,woonfunctie,251,in gebruik
+394010000338650,industriefunctie,19203,in gebruik
+394010000338767,industriefunctie,440,in gebruik
+394010000338889,industriefunctie,2500,in gebruik
+394010000339993,industriefunctie,999999,in gebruik
+394010000339993,industriefunctie,4160,in gebruik
+394010000339993,industriefunctie,2340,in gebruik
+394010000340147,kantoorfunctie,999999,in gebruik
+394010000340147,kantoorfunctie,356,in gebruik
+394010000340149,kantoorfunctie,999999,in gebruik
+394010000340149,kantoorfunctie,356,in gebruik
+394010000340155,kantoorfunctie,999999,in gebruik
+394010000340155,kantoorfunctie,4170,in gebruik
+394010000340248,industriefunctie,999999,in gebruik
+394010000340248,industriefunctie,920,in gebruik
+394010000340383,kantoorfunctie,999999,in gebruik
+394010000340383,kantoorfunctie,799,in gebruik
+394010000340403,kantoorfunctie,999999,in gebruik
+394010000340403,kantoorfunctie,458,in gebruik
+394010000340525,kantoorfunctie,999999,in gebruik
+394010000340525,kantoorfunctie,778,in gebruik
+394010000340526,kantoorfunctie,999999,in gebruik
+394010000340526,kantoorfunctie,582,in gebruik
+394010000340580,industriefunctie,999999,in gebruik
+394010000340580,industriefunctie,610,in gebruik
+394010000340580,industriefunctie,610,in gebruik
+394010000340625,industriefunctie,202,in gebruik
+394010000340691,kantoorfunctie,235,in gebruik
+394010000340966,industriefunctie,999999,in gebruik
+394010000340966,industriefunctie,95,in gebruik
+394010000341032,industriefunctie,350,in gebruik
+394010000341039,industriefunctie,999999,in gebruik
+394010000341039,industriefunctie,1037,in gebruik
+394010000341039,industriefunctie,1349,in gebruik
+394010000341666,industriefunctie,999999,in gebruik
+394010000341666,industriefunctie,404,in gebruik
+394010000341757,kantoorfunctie,999999,in gebruik
+394010000341757,kantoorfunctie,475,in gebruik
+394010000341789,kantoorfunctie,400,in gebruik
+394010000341793,industriefunctie,294,in gebruik
+394010000341794,industriefunctie,294,in gebruik
+394010000342061,kantoorfunctie,999999,in gebruik
+394010000342061,kantoorfunctie,295,in gebruik
+394010000342176,industriefunctie,440,in gebruik
+394010000342274,kantoorfunctie,999999,in gebruik
+394010000342274,kantoorfunctie,122,in gebruik
+394010000342274,kantoorfunctie,234,in gebruik
+394010000342712,kantoorfunctie,999999,in gebruik
+394010000342712,kantoorfunctie,1050,in gebruik
+394010000343309,industriefunctie,999999,in gebruik
+394010000343309,industriefunctie,744,in gebruik
+394010000344157,industriefunctie,215,in gebruik
+394010000344157,industriefunctie,215,in gebruik (niet ingemeten)
+394010000344157,industriefunctie,215,in gebruik
+394010000344686,industriefunctie,535,in gebruik
+394010000346868,industriefunctie,18330,in gebruik
+394010000346868,industriefunctie,18330,in gebruik
+394010000346870,industriefunctie,6119,in gebruik
+394010000346870,industriefunctie,6119,in gebruik
+394010000347019,industriefunctie,215,in gebruik
+394010000347019,industriefunctie,215,in gebruik (niet ingemeten)
+394010000347019,industriefunctie,215,in gebruik
+394010000347296,industriefunctie,210,in gebruik
+394010000347296,industriefunctie,210,in gebruik (niet ingemeten)
+394010000347296,industriefunctie,210,in gebruik
+394010000347296,industriefunctie,210,in gebruik (niet ingemeten)
+394010000347296,industriefunctie,210,in gebruik
+394010001001084,woonfunctie,166,gevormd
+394010001001084,woonfunctie,166,in gebruik (niet ingemeten)
+394010001001084,woonfunctie,166,in gebruik (niet ingemeten)
+394010001001084,woonfunctie,166,in gebruik
+394010001001107,industriefunctie,300,in gebruik
+394010001001269,overige gebruiksfunctie,1400,gevormd
+394010001001269,overige gebruiksfunctie,1400,in gebruik (niet ingemeten)
+394010001001269,overige gebruiksfunctie,1400,in gebruik
+394010001001462,kantoorfunctie,24000,in gebruik (niet ingemeten)
+394010001001462,kantoorfunctie,24000,in gebruik
+394010001001500,kantoorfunctie,1100,in gebruik
+394010001001500,kantoorfunctie,1100,in gebruik
+394010001001768,kantoorfunctie,250,in gebruik
+394010001001768,kantoorfunctie,250,in gebruik
+394010001001768,kantoorfunctie,861,in gebruik (niet ingemeten)
+394010001001768,kantoorfunctie,861,in gebruik
+394010001001778,kantoorfunctie,250,in gebruik
+394010001001778,kantoorfunctie,250,in gebruik
+394010001001778,kantoorfunctie,25,in gebruik (niet ingemeten)
+394010001001778,kantoorfunctie,25,in gebruik
+394010001001873,kantoorfunctie,2950,in gebruik
+394010001001873,kantoorfunctie,2950,in gebruik
+394010001001876,kantoorfunctie,2950,in gebruik
+394010001001876,kantoorfunctie,2950,in gebruik
+394010001001905,kantoorfunctie,68,in gebruik
+394010001001905,kantoorfunctie,68,ingetrokken
+394010001002054,industriefunctie,2700,in gebruik
+394010001002054,industriefunctie,2700,in gebruik
+394010001002054,industriefunctie,2700,ingetrokken
+394010001002055,industriefunctie,8900,in gebruik
+394010001002055,industriefunctie,8900,in gebruik
+394010001002056,industriefunctie,2000,in gebruik
+394010001002056,industriefunctie,2000,in gebruik
+394010001002057,industriefunctie,2000,in gebruik
+394010001002057,industriefunctie,2000,in gebruik
+394010001002061,industriefunctie,6831,in gebruik
+394010001002064,industriefunctie,1575,in gebruik
+394010001002064,industriefunctie,1575,in gebruik
+394010001002065,industriefunctie,1575,in gebruik
+394010001002065,industriefunctie,1575,in gebruik
+394010001002066,industriefunctie,1575,in gebruik
+394010001002066,industriefunctie,1575,in gebruik
+394010001002073,industriefunctie,1575,in gebruik
+394010001002073,industriefunctie,1575,in gebruik
+394010001002076,industriefunctie,1575,in gebruik
+394010001002076,industriefunctie,1575,in gebruik
+394010001002084,industriefunctie,3400,in gebruik
+394010001002084,industriefunctie,3400,in gebruik
+394010001002089,industriefunctie,3100,in gebruik
+394010001002089,industriefunctie,3100,in gebruik
+394010001002092,industriefunctie,4900,in gebruik
+394010001002092,industriefunctie,4900,in gebruik
+394010001002093,industriefunctie,2500,in gebruik
+394010001002093,industriefunctie,2500,in gebruik
+394010001002094,industriefunctie,2500,in gebruik
+394010001002094,industriefunctie,2500,in gebruik
+394010001002102,kantoorfunctie,999999,in gebruik
+394010001002102,kantoorfunctie,36,in gebruik
+394010001002102,kantoorfunctie,219,in gebruik (niet ingemeten)
+394010001002102,kantoorfunctie,219,in gebruik
+394010001002103,kantoorfunctie,999999,in gebruik
+394010001002103,kantoorfunctie,36,in gebruik
+394010001002103,kantoorfunctie,359,in gebruik (niet ingemeten)
+394010001002103,kantoorfunctie,359,in gebruik
+394010001002104,kantoorfunctie,999999,in gebruik
+394010001002104,kantoorfunctie,36,in gebruik
+394010001002104,kantoorfunctie,33,in gebruik (niet ingemeten)
+394010001002104,kantoorfunctie,33,in gebruik
+394010001002106,kantoorfunctie,129,in gebruik
+394010001002106,kantoorfunctie,165,in gebruik (niet ingemeten)
+394010001002106,kantoorfunctie,165,in gebruik
+394010001002126,kantoorfunctie,239,in gebruik
+394010001002126,kantoorfunctie,40,in gebruik (niet ingemeten)
+394010001002126,kantoorfunctie,40,in gebruik
+394010001002150,kantoorfunctie,999999,in gebruik
+394010001002150,kantoorfunctie,398,in gebruik
+394010001002150,kantoorfunctie,34,in gebruik (niet ingemeten)
+394010001002150,kantoorfunctie,34,in gebruik
+394010001002179,industriefunctie,920,in gebruik
+394010001002179,industriefunctie,920,in gebruik
+394010001002182,industriefunctie,920,in gebruik
+394010001002182,industriefunctie,920,in gebruik
+394010001002187,industriefunctie,3900,in gebruik (niet ingemeten)
+394010001002187,industriefunctie,3900,in gebruik (niet ingemeten)
+394010001002187,industriefunctie,3900,in gebruik
+394010001002192,industriefunctie,25634,in gebruik
+394010001002197,industriefunctie,21600,in gebruik
+394010001002197,industriefunctie,21600,in gebruik
+394010001002218,kantoorfunctie,164,in gebruik
+394010001002218,kantoorfunctie,215,in gebruik (niet ingemeten)
+394010001002218,kantoorfunctie,215,in gebruik
+394010001002220,kantoorfunctie,880,in gebruik
+394010001002220,kantoorfunctie,168,in gebruik (niet ingemeten)
+394010001002220,kantoorfunctie,168,in gebruik
+394010001002221,kantoorfunctie,999999,in gebruik
+394010001002221,kantoorfunctie,880,in gebruik
+394010001002221,kantoorfunctie,228,in gebruik (niet ingemeten)
+394010001002221,kantoorfunctie,228,in gebruik
+394010001002222,kantoorfunctie,999999,in gebruik
+394010001002222,kantoorfunctie,880,in gebruik
+394010001002222,kantoorfunctie,189,in gebruik (niet ingemeten)
+394010001002222,kantoorfunctie,189,in gebruik
+394010001002223,kantoorfunctie,999999,in gebruik
+394010001002223,kantoorfunctie,880,in gebruik
+394010001002223,kantoorfunctie,243,in gebruik (niet ingemeten)
+394010001002223,kantoorfunctie,243,in gebruik
+394010001002294,overige gebruiksfunctie,999999,in gebruik
+394010001002294,overige gebruiksfunctie,999999,ingetrokken
+394010001002324,overige gebruiksfunctie,999999,in gebruik
+394010001002324,overige gebruiksfunctie,999999,ingetrokken
+394010001002392,overige gebruiksfunctie,999999,in gebruik
+394010001002392,overige gebruiksfunctie,999999,ingetrokken
+394010001002423,industriefunctie,6700,in gebruik (niet ingemeten)
+394010001002423,industriefunctie,6700,in gebruik
+394010001002424,industriefunctie,6700,in gebruik (niet ingemeten)
+394010001002424,industriefunctie,6700,in gebruik
+394010001002449,industriefunctie,4430,in gebruik
+394010001002449,industriefunctie,4430,in gebruik
+394010001002450,industriefunctie,8169,gevormd
+394010001002450,industriefunctie,8169,in gebruik (niet ingemeten)
+394010001002450,industriefunctie,8169,in gebruik
+394010001002452,industriefunctie,9087,in gebruik
+394010001002452,industriefunctie,9087,in gebruik
+394010001002454,industriefunctie,5400,in gebruik
+394010001002454,industriefunctie,5400,in gebruik
+394010001002455,industriefunctie,5400,in gebruik
+394010001002455,industriefunctie,5400,in gebruik
+394010001002598,industriefunctie,6409,in gebruik (niet ingemeten)
+394010001002598,industriefunctie,6409,in gebruik
+394010001003275,overige gebruiksfunctie,185,in gebruik
+394010001003275,overige gebruiksfunctie,256,in gebruik
+394010001003275,industriefunctie,256,in gebruik
+394010001003288,overige gebruiksfunctie,120,gevormd
+394010001003288,overige gebruiksfunctie,120,in gebruik (niet ingemeten)
+394010001003288,overige gebruiksfunctie,120,in gebruik
+394010001003288,industriefunctie,120,in gebruik
+394010001003610,industriefunctie,8300,gevormd
+394010001003610,industriefunctie,8300,in gebruik (niet ingemeten)
+394010001003610,industriefunctie,8300,in gebruik
+394010001003629,kantoorfunctie,4350,in gebruik (niet ingemeten)
+394010001003629,kantoorfunctie,4350,in gebruik
+394010001003810,kantoorfunctie,3200,in gebruik (niet ingemeten)
+394010001003810,kantoorfunctie,3200,in gebruik
+394010001004074,woonfunctie,65,gevormd
+394010001004074,woonfunctie,65,in gebruik (niet ingemeten)
+394010001004074,woonfunctie,65,in gebruik
+394010001004993,industriefunctie,4560,in gebruik
+394010001004993,industriefunctie,4560,in gebruik (niet ingemeten)
+394010001004993,industriefunctie,4560,in gebruik
+394010001004996,kantoorfunctie,430,in gebruik
+394010001004996,kantoorfunctie,430,in gebruik (niet ingemeten)
+394010001004996,kantoorfunctie,430,in gebruik
+394010001005019,industriefunctie,5940,gevormd
+394010001005019,industriefunctie,5940,gevormd
+394010001005019,industriefunctie,5940,in gebruik
+394010001005032,winkelfunctie,6052,in gebruik (niet ingemeten)
+394010001005032,winkelfunctie,6052,in gebruik
+394010001005291,kantoorfunctie,5230,in gebruik (niet ingemeten)
+394010001005291,kantoorfunctie,5230,in gebruik
+394010001005320,kantoorfunctie,1633,gevormd
+394010001005320,kantoorfunctie,1633,in gebruik (niet ingemeten)
+394010001005320,kantoorfunctie,1633,in gebruik
+394010001005325,industriefunctie,300,in gebruik (niet ingemeten)
+394010001005325,industriefunctie,300,in gebruik (niet ingemeten)
+394010001005325,industriefunctie,316,in gebruik (niet ingemeten)
+394010001005325,industriefunctie,316,in gebruik
+394010001005382,winkelfunctie,134601,in gebruik (niet ingemeten)
+394010001005382,winkelfunctie,134601,in gebruik
+394010001005385,winkelfunctie,5344,in gebruik (niet ingemeten)
+394010001005385,winkelfunctie,5344,in gebruik
+394010001005536,kantoorfunctie,2801,in gebruik (niet ingemeten)
+394010001005536,kantoorfunctie,2801,in gebruik
+394010001005537,kantoorfunctie,1383,in gebruik (niet ingemeten)
+394010001005537,kantoorfunctie,1383,in gebruik
+394010001005594,woonfunctie,543,gevormd
+394010001005594,woonfunctie,543,in gebruik (niet ingemeten)
+394010001005594,woonfunctie,543,in gebruik
+394010001005662,kantoorfunctie,1637,in gebruik (niet ingemeten)
+394010001005662,kantoorfunctie,1637,in gebruik
+394010001005732,industriefunctie,587,in gebruik (niet ingemeten)
+394010001005732,industriefunctie,587,in gebruik
+394010001006244,industriefunctie,916,in gebruik (niet ingemeten)
+394010001006244,industriefunctie,916,in gebruik
+394010001006256,industriefunctie,1755,in gebruik (niet ingemeten)
+394010001006256,industriefunctie,1755,in gebruik
+394010001006256,industriefunctie,1755,ingetrokken
+394010001006267,kantoorfunctie,110,in gebruik (niet ingemeten)
+394010001006267,kantoorfunctie,110,in gebruik
+394010001006618,industriefunctie,7774,gevormd
+394010001006618,industriefunctie,7774,in gebruik (niet ingemeten)
+394010001006618,industriefunctie,7774,in gebruik
+394010001006618,industriefunctie,12464,in gebruik (niet ingemeten)
+394010001006814,industriefunctie,6908,in gebruik
+394010001007636,woonfunctie,134,gevormd
+394010001007636,woonfunctie,134,gevormd
+394010001007636,woonfunctie,134,in gebruik
+394010001007902,industriefunctie,156,in gebruik (niet ingemeten)
+394010001007902,industriefunctie,156,in gebruik
+394010001007912,industriefunctie,50,in gebruik (niet ingemeten)
+394010001007912,industriefunctie,50,in gebruik
+394010001007984,industriefunctie,873,gevormd
+394010001008106,kantoorfunctie,1122,gevormd
+394010001008106,kantoorfunctie,1122,in gebruik (niet ingemeten)
+394010001008106,kantoorfunctie,1122,in gebruik
+394010001008394,woonfunctie,196,gevormd
+394010001008394,woonfunctie,196,in gebruik (niet ingemeten)
+394010001008394,woonfunctie,196,in gebruik
+394010001008428,industriefunctie,1000,gevormd
+394010001008428,industriefunctie,1000,in gebruik (niet ingemeten)
+394010001008428,industriefunctie,1000,in gebruik
+394010001008446,kantoorfunctie,36645,in gebruik (niet ingemeten)
+394010001008446,kantoorfunctie,36645,in gebruik
+394010001008887,kantoorfunctie,5475,gevormd
+394010001008887,kantoorfunctie,5475,gevormd
+394010001008887,kantoorfunctie,5475,in gebruik
+394010001009038,industriefunctie,5260,gevormd
+394010001009220,kantoorfunctie,512,in gebruik (niet ingemeten)
+394010001009220,kantoorfunctie,512,in gebruik
+394010001009228,kantoorfunctie,443,in gebruik (niet ingemeten)
+394010001009228,kantoorfunctie,443,in gebruik
+394010001009979,industriefunctie,5087,in gebruik (niet ingemeten)
+394010001009979,industriefunctie,5087,in gebruik
+394010001009980,industriefunctie,5087,in gebruik (niet ingemeten)
+394010001009980,industriefunctie,5087,in gebruik
+394010001009981,industriefunctie,5267,in gebruik (niet ingemeten)
+394010001009981,industriefunctie,5267,in gebruik
+394010001010055,industriefunctie,7120,gevormd
+394010001010055,industriefunctie,2726,gevormd
+394010001010055,industriefunctie,2726,gevormd
+394010001010055,industriefunctie,2726,gevormd
+394010001010055,industriefunctie,2726,in gebruik
+394010001010103,industriefunctie,192,in gebruik (niet ingemeten)
+394010001010103,industriefunctie,192,in gebruik
+394010001010104,industriefunctie,152,in gebruik (niet ingemeten)
+394010001010104,industriefunctie,152,in gebruik
+394010001010107,industriefunctie,6348,in gebruik (niet ingemeten)
+394010001010107,industriefunctie,6348,in gebruik
+394010001010108,industriefunctie,72,in gebruik (niet ingemeten)
+394010001010108,industriefunctie,72,in gebruik
+394010001010110,industriefunctie,1000,in gebruik (niet ingemeten)
+394010001010110,industriefunctie,1000,in gebruik
+394010001010115,industriefunctie,150,in gebruik (niet ingemeten)
+394010001010115,industriefunctie,150,in gebruik
+394010001010117,industriefunctie,133,in gebruik (niet ingemeten)
+394010001010117,industriefunctie,133,in gebruik
+394010001010119,industriefunctie,103,in gebruik (niet ingemeten)
+394010001010119,industriefunctie,103,in gebruik
+394010001010122,industriefunctie,100,in gebruik (niet ingemeten)
+394010001010122,industriefunctie,100,in gebruik
+394010001010128,industriefunctie,240,in gebruik (niet ingemeten)
+394010001010128,industriefunctie,240,in gebruik
+394010001010129,industriefunctie,75,in gebruik (niet ingemeten)
+394010001010129,industriefunctie,75,in gebruik
+394010001010131,industriefunctie,249,in gebruik (niet ingemeten)
+394010001010131,industriefunctie,249,in gebruik
+394010001010132,industriefunctie,92,in gebruik (niet ingemeten)
+394010001010132,industriefunctie,92,in gebruik
+394010001010135,industriefunctie,120,in gebruik (niet ingemeten)
+394010001010135,industriefunctie,120,in gebruik
+394010001010136,industriefunctie,119,in gebruik (niet ingemeten)
+394010001010136,industriefunctie,119,in gebruik
+394010001010137,industriefunctie,584,in gebruik (niet ingemeten)
+394010001010137,industriefunctie,584,in gebruik
+394010001010140,industriefunctie,142,in gebruik (niet ingemeten)
+394010001010140,industriefunctie,142,in gebruik
+394010001010143,industriefunctie,122,in gebruik (niet ingemeten)
+394010001010143,industriefunctie,122,in gebruik
+394010001010144,industriefunctie,205,in gebruik (niet ingemeten)
+394010001010144,industriefunctie,205,in gebruik
+394010001010145,industriefunctie,3149,in gebruik (niet ingemeten)
+394010001010145,industriefunctie,3149,in gebruik
+394010001010365,industriefunctie,8110,gevormd
+394010001010365,industriefunctie,8110,gevormd
+394010001010365,industriefunctie,8110,in gebruik
+394010001010769,industriefunctie,5393,gevormd
+394010001010769,industriefunctie,2630,gevormd
+394010001010769,industriefunctie,2630,in gebruik (niet ingemeten)
+394010001010769,industriefunctie,2630,in gebruik
+394010001010860,industriefunctie,6423,gevormd
+394010001010860,industriefunctie,6423,gevormd
+394010001010860,industriefunctie,6423,in gebruik
+394010001010882,industriefunctie,2682,gevormd
+394010001010882,industriefunctie,2682,in gebruik (niet ingemeten)
+394010001010882,industriefunctie,2682,in gebruik
+394010001012396,industriefunctie,78,in gebruik (niet ingemeten)
+394010001012396,industriefunctie,78,in gebruik
+395010000001769,woonfunctie,94,in gebruik
+395010000002191,industriefunctie,157,in gebruik
+395010000002191,industriefunctie,175,in gebruik
+395010000007842,woonfunctie,151,in gebruik
+396010001000318,overige gebruiksfunctie,75,in gebruik
+396010001000318,kantoorfunctie,75,in gebruik
+396010001009554,woonfunctie,131,in gebruik
+396010001009608,woonfunctie,115,in gebruik
+396010001014994,woonfunctie,174,in gebruik
+396010001020083,kantoorfunctie,2100,in gebruik
+397010000002079,woonfunctie,150,in gebruik
+397010000007895,woonfunctie,93,in gebruik
+397010000009501,woonfunctie,50,in gebruik
+397010000011318,woonfunctie,153,in gebruik
+397010000012487,industriefunctie,218,gevormd
+397010000012487,industriefunctie,106,gevormd
+397010000012487,industriefunctie,106,in gebruik (niet ingemeten)
+397010000012487,industriefunctie,106,in gebruik
+398010000001790,woonfunctie,180,in gebruik
+398010000007107,industriefunctie,307,in gebruik
+398010000007225,woonfunctie,97,in gebruik
+398010000008228,industriefunctie,16758,in gebruik
+398010000008228,industriefunctie,16758,in gebruik
+398010000008228,industriefunctie,17640,in gebruik
+398010000008228,industriefunctie,17640,in gebruik
+398010000021024,woonfunctie,113,in gebruik
+398010000025150,woonfunctie,112,gevormd
+398010000025150,woonfunctie,112,in gebruik (niet ingemeten)
+398010000025150,woonfunctie,112,in gebruik
+398010000026163,industriefunctie,298,gevormd
+398010000026163,industriefunctie,298,in gebruik (niet ingemeten)
+398010000026163,industriefunctie,298,in gebruik
+399010000000686,woonfunctie,30,in gebruik
+399010000000686,woonfunctie,195,in gebruik
+399010000000686,woonfunctie,198,in gebruik
+399010000000686,woonfunctie,203,in gebruik
+399010000010946,industriefunctie,140,in gebruik
+399010000010946,industriefunctie,308,in gebruik
+400010000000489,industriefunctie,999999,in gebruik
+400010000000489,industriefunctie,614,in gebruik
+400010000000489,industriefunctie,623,in gebruik
+400010000006291,winkelfunctie,999999,gevormd
+400010000006291,winkelfunctie,444,gevormd
+400010000006291,winkelfunctie,444,in gebruik
+400010000006291,winkelfunctie,421,in gebruik
+400010000013864,woonfunctie,88,in gebruik
+400010000017464,woonfunctie,176,in gebruik
+400010000025371,overige gebruiksfunctie,999999,in gebruik
+400010000025371,overige gebruiksfunctie,14,in gebruik
+400010000030709,kantoorfunctie,999999,in gebruik
+400010000030709,kantoorfunctie,273,in gebruik
+400010000030709,kantoorfunctie,142,in gebruik
+400010000037412,woonfunctie,999999,in gebruik
+400010000037412,woonfunctie,72,in gebruik
+400010000039541,kantoorfunctie,2525,gevormd
+400010000039541,kantoorfunctie,2525,in gebruik (niet ingemeten)
+400010000039541,kantoorfunctie,2525,in gebruik
+400010000040074,industriefunctie,117,in gebruik
+400010000040579,kantoorfunctie,1818,in gebruik
+400010000040581,industriefunctie,1152,in gebruik
+402010001543057,woonfunctie,111,in gebruik
+402010001547071,winkelfunctie,166,in gebruik
+402010001547071,sportfunctie,168,in gebruik (niet ingemeten)
+402010001547071,sportfunctie,168,in gebruik
+402010001547071,sportfunctie,168,in gebruik
+402010001547071,overige gebruiksfunctie,168,in gebruik
+402010001551967,woonfunctie,153,in gebruik
+402010001561533,woonfunctie,141,in gebruik
+402010001561533,woonfunctie,137,in gebruik
+402010001571134,woonfunctie,197,in gebruik
+402010001581011,woonfunctie,73,in gebruik
+402010001587133,winkelfunctie,4234,in gebruik
+402010001596099,woonfunctie,202,in gebruik
+402010001596099,woonfunctie,202,in gebruik
+402010001596099,woonfunctie,202,ingetrokken
+402010001600581,kantoorfunctie,382,in gebruik
+402010001626660,woonfunctie,98,in gebruik
+402010001628773,gezondheidszorgfunctie,184,in gebruik
+402010001628773,gezondheidszorgfunctie,184,in gebruik (niet ingemeten)
+402010001628773,gezondheidszorgfunctie,184,in gebruik
+405010000560365,winkelfunctie,1117,in gebruik
+405010000564729,winkelfunctie,12953,in gebruik
+405010000564729,industriefunctie,13415,in gebruik
+405010000564851,industriefunctie,125,in gebruik
+405010000572565,woonfunctie,74,in gebruik
+405010000574851,kantoorfunctie,156,in gebruik
+405010000587529,industriefunctie,3008,in gebruik
+405010000587529,industriefunctie,3100,in gebruik (niet ingemeten)
+405010000591471,woonfunctie,116,in gebruik
+405010000599067,winkelfunctie,2092,in gebruik
+405010000599871,kantoorfunctie,1339,in gebruik
+405010000602349,woonfunctie,100,in gebruik
+405010000623277,kantoorfunctie,2231,in gebruik
+405010000623277,kantoorfunctie,2074,in gebruik
+406010000000653,woonfunctie,317,in gebruik
+406010000000653,woonfunctie,376,in gebruik
+406010000006876,woonfunctie,123,in gebruik
+406010000006876,woonfunctie,126,in gebruik
+406010000008193,woonfunctie,156,in gebruik
+406010000008193,woonfunctie,127,in gebruik
+406010000008193,woonfunctie,128,in gebruik
+406010000013450,woonfunctie,85,in gebruik
+406010000013450,woonfunctie,80,in gebruik
+406010000015993,woonfunctie,68,in gebruik
+406010000015993,woonfunctie,66,in gebruik
+406010000043048,woonfunctie,168,in gebruik
+406010000043048,woonfunctie,170,in gebruik
+406010000044366,woonfunctie,250,in gebruik
+406010000044366,woonfunctie,289,in gebruik
+406010000052068,kantoorfunctie,5822,gevormd
+406010000052068,kantoorfunctie,7010,gevormd
+406010000052068,kantoorfunctie,7010,in gebruik (niet ingemeten)
+406010000052068,kantoorfunctie,7010,in gebruik
+406010000052068,kantoorfunctie,9750,in gebruik (niet ingemeten)
+406010000052068,kantoorfunctie,9224,in gebruik
+412010000575346,woonfunctie,112,in gebruik
+412010000575346,woonfunctie,119,in gebruik
+412010000577342,woonfunctie,79,in gebruik
+412010000578278,woonfunctie,87,in gebruik
+412010000580514,woonfunctie,154,in gebruik
+412010000581476,woonfunctie,114,in gebruik
+412010000582464,woonfunctie,113,in gebruik
+415010000000237,woonfunctie,77,gevormd
+415010000000237,woonfunctie,77,in gebruik
+415010000002256,woonfunctie,118,in gebruik
+415010000003501,woonfunctie,123,gevormd
+415010000003501,woonfunctie,123,in gebruik (niet ingemeten)
+415010000003501,woonfunctie,123,in gebruik
+415010000003570,woonfunctie,434,in gebruik
+415010000004402,woonfunctie,132,in gebruik (niet ingemeten)
+415010000004402,woonfunctie,132,in gebruik
+416010000216434,woonfunctie,131,in gebruik
+416010000216434,woonfunctie,149,in gebruik
+416010000222294,woonfunctie,103,in gebruik
+416010000247473,woonfunctie,186,gevormd
+416010000247473,woonfunctie,186,gevormd
+416010000247473,woonfunctie,186,in gebruik (niet ingemeten)
+416010000247473,woonfunctie,186,in gebruik
+417010001001031,woonfunctie,289,in gebruik
+417010001002071,woonfunctie,162,in gebruik
+417010001003678,kantoorfunctie,2024,in gebruik
+417010001003678,kantoorfunctie,1263,in gebruik
+417010001003772,woonfunctie,571,in gebruik
+420010000001240,woonfunctie,79,in gebruik
+420010000006968,woonfunctie,111,in gebruik
+420010000008210,woonfunctie,120,in gebruik
+420010000009513,woonfunctie,354,in gebruik
+420010000009513,woonfunctie,354,ingetrokken
+420010000010455,logiesfunctie,135,in gebruik
+420010000010541,woonfunctie,151,in gebruik
+420010000012016,industriefunctie,33065,in gebruik
+420010000012016,industriefunctie,33808,in gebruik
+425010000000853,winkelfunctie,469,in gebruik
+425010000003089,woonfunctie,69,in gebruik
+425010000003089,woonfunctie,109,in gebruik
+425010000006905,woonfunctie,137,in gebruik
+425010000006933,woonfunctie,182,in gebruik
+425010000007491,woonfunctie,190,in gebruik
+431010000003693,woonfunctie,119,in gebruik
+431010000004544,woonfunctie,138,in gebruik
+432010000002889,woonfunctie,97,in gebruik
+437010000000876,kantoorfunctie,223,in gebruik
+437010000006019,woonfunctie,79,in gebruik
+437010000006019,woonfunctie,79,in gebruik (niet ingemeten)
+437010000006019,woonfunctie,79,in gebruik
+437010000006414,woonfunctie,196,in gebruik
+437010000006692,kantoorfunctie,2170,in gebruik
+437010000006692,kantoorfunctie,153,in gebruik
+437010000006716,woonfunctie,95,in gebruik
+437010000006809,woonfunctie,95,in gebruik
+437010000008184,kantoorfunctie,309,gevormd
+437010000008184,kantoorfunctie,349,in gebruik (niet ingemeten)
+437010000008184,kantoorfunctie,349,in gebruik
+437010000008317,woonfunctie,98,in gebruik
+439010000001171,woonfunctie,128,in gebruik
+439010000008353,winkelfunctie,2227,in gebruik
+439010000008353,winkelfunctie,1743,in gebruik
+439010000008353,winkelfunctie,1743,in gebruik
+439010000008353,winkelfunctie,1743,ingetrokken
+439010000011256,industriefunctie,495,in gebruik
+439010000014472,kantoorfunctie,1054,in gebruik
+439010000017529,industriefunctie,215,in gebruik
+439010000017529,industriefunctie,219,in gebruik
+439010000028736,woonfunctie,119,in gebruik
+439010000028736,woonfunctie,133,in gebruik
+439010000029044,woonfunctie,95,in gebruik
+439010000030712,industriefunctie,182,in gebruik
+439010000030712,industriefunctie,218,in gebruik
+439010000030712,industriefunctie,364,in gebruik
+439010000040785,kantoorfunctie,894,gevormd
+439010000040785,kantoorfunctie,894,in gebruik
+439010000040785,kantoorfunctie,894,in gebruik
+439010000040785,kantoorfunctie,885,in gebruik
+441010001003086,kantoorfunctie,217,in gebruik
+0450010000001007,woonfunctie,171,in gebruik
+0450010000005587,woonfunctie,400,in gebruik
+0451010000000182,woonfunctie,106,in gebruik
+0451010000001040,woonfunctie,113,in gebruik
+0451010000003466,gezondheidszorgfunctie,137,in gebruik
+0451010000004266,industriefunctie,1133,in gebruik
+0451010000004482,industriefunctie,15781,in gebruik
+0451010000006792,kantoorfunctie,262,in gebruik
+0451010000007759,industriefunctie,776,in gebruik
+0451010000014239,industriefunctie,22634,in gebruik
+0451010000014263,industriefunctie,1439,in gebruik
+0451010000015446,industriefunctie,375,gevormd
+0451010000015446,industriefunctie,375,in gebruik
+0453010001000035,industriefunctie,999999,in gebruik
+0453010001000035,industriefunctie,38955,in gebruik
+0453010001000035,kantoorfunctie,38955,in gebruik
+0453010001000606,kantoorfunctie,329,in gebruik
+0453010001000606,kantoorfunctie,325,in gebruik
+0453010001001385,industriefunctie,339,in gebruik
+0453010001001385,industriefunctie,457,in gebruik
+0453010001001385,industriefunctie,457,in gebruik
+0453010001002320,woonfunctie,125,in gebruik
+0453010001003576,kantoorfunctie,7923,in gebruik
+0453010001003576,kantoorfunctie,7923,in gebruik
+0453010001003576,kantoorfunctie,8140,in gebruik
+0453010001009816,woonfunctie,114,in gebruik
+0453010001010371,woonfunctie,77,in gebruik
+0453010001010371,woonfunctie,77,in gebruik
+0453010001010727,industriefunctie,3008,in gebruik
+0453010001010727,industriefunctie,2264,in gebruik
+0453010001013861,woonfunctie,114,in gebruik
+0453010001018780,industriefunctie,552,in gebruik
+0453010001018780,industriefunctie,568,in gebruik
+0453010001019914,kantoorfunctie,436,in gebruik
+0453010001019914,kantoorfunctie,436,in gebruik
+0453010001021295,winkelfunctie,184,in gebruik
+0453010001021295,woonfunctie,226,in gebruik
+0453010001021431,woonfunctie,125,in gebruik
+0453010001024302,woonfunctie,83,in gebruik
+0453010001028885,industriefunctie,295,in gebruik
+0453010001028885,industriefunctie,306,in gebruik
+0453010001034222,industriefunctie,12168,in gebruik
+0453010001034222,industriefunctie,12362,in gebruik
+0453010001034222,industriefunctie,12362,in gebruik
+0453010001034416,woonfunctie,135,in gebruik
+0453010001034950,industriefunctie,129,in gebruik
+0453010001034950,industriefunctie,132,in gebruik
+0453010001036491,woonfunctie,181,in gebruik
+0453010001037757,industriefunctie,5404,in gebruik
+0453010001037757,industriefunctie,6043,in gebruik
+0453010001040910,industriefunctie,1738,in gebruik
+0453010001040910,industriefunctie,2241,in gebruik
+0453010001041336,industriefunctie,999999,in gebruik
+0453010001041336,industriefunctie,5464,in gebruik
+0453010001041336,industriefunctie,5464,in gebruik
+0453010001041381,woonfunctie,97,in gebruik
+0453010001041453,industriefunctie,70,in gebruik
+0453010001041453,industriefunctie,70,in gebruik
+0453010001041453,industriefunctie,72,in gebruik
+0453010001041673,industriefunctie,3401,in gebruik
+0453010001041673,industriefunctie,3519,in gebruik
+0453010001041673,industriefunctie,4334,in gebruik
