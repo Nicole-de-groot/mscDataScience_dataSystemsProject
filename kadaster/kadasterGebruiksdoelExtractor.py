@@ -67,6 +67,3 @@ for currentfile in files:
     checkedVBOfiles.append(currentfile[cut:])
     with open(checkedVBO + '.p', 'wb') as fp:
         pickle.dump(checkedVBOfiles, fp)
-
-    if len(kadaster) == nr_ids:
-        sys.exit()
