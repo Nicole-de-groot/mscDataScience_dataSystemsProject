@@ -751,7 +751,7 @@ huisnummer,postcode,nrAanduiding,vblObject,inOnderzoek,gebruiksdoel,oppervlakte,
 6,5236WB,796200000310015,796010000310016,False,industriefunctie,1110,in gebruik
 16,5709RZ,794200000055650,794010000099797,False,woonfunctie,159,in gebruik
 60,1332EJ,34200000051521,34010000026499,False,industriefunctie,12273,in gebruik
-3,5632CW,772200001062336,772010001062299,False,woonfunctie,33,d verblijfsobject
+3,5632CW,772200001062336,772010001062299,False,woonfunctie,33,in gebruik
 15,1431BA,358200027915900,358010028203241,False,bijeenkomstfunctie,980,in gebruik
 22,5262SJ,865200000012576,865010000012560,False,kantoorfunctie,226,in gebruik
 4,5076SN,788200000003025,788010000001354,False,logiesfunctie,41,in gebruik
@@ -981,7 +981,7 @@ huisnummer,postcode,nrAanduiding,vblObject,inOnderzoek,gebruiksdoel,oppervlakte,
 33,4879NE,777200000183362,777010000183363,False,overige gebruiksfunctie,6,in gebruik
 4,4791RN,1709200000603718,1709010000173450,False,industriefunctie,17845,in gebruik
 11,4611TS,748200000002419,748010000002419,False,industriefunctie,92,in gebruik
-19,4751XC,1655200000541016,1655010000541017,False,industriefunctie,1,d verblijfsobject
+19,4751XC,1655200000541016,1655010000541017,False,industriefunctie,1,in gebruik
 15,4703RG,1674200000500779,1674010000500779,False,kantoorfunctie,634,in gebruik
 9,4822PP,758200000015294,758010000036506,False,woonfunctie,192,in gebruik
 8,4641SH,873200000448305,873010000448306,False,kantoorfunctie,598,in gebruik
@@ -1405,7 +1405,7 @@ huisnummer,postcode,nrAanduiding,vblObject,inOnderzoek,gebruiksdoel,oppervlakte,
 6,3059SR,599200001010489,599010000486156,False,woonfunctie,217,in gebruik
 85,3087BM,599200000792674,599010000405725,False,kantoorfunctie,6569,in gebruik
 35,5928PH,983200000036853,983010000036853,False,industriefunctie,11407,in gebruik
-1,3165AM,613200000151627,613010000151628,False,kantoorfunctie,21131,d verblijfsobject
+1,3165AM,613200000151627,613010000151628,False,kantoorfunctie,21131,in gebruik
 27,2719KL,637200000186020,637010000186021,False,woonfunctie,111,in gebruik
 1,4455TT,654200000231370,654010000044098,False,overige gebruiksfunctie,35,in gebruik
 101,2771DS,499200002035984,499010002029100,False,woonfunctie,247,in gebruik
@@ -1747,7 +1747,7 @@ huisnummer,postcode,nrAanduiding,vblObject,inOnderzoek,gebruiksdoel,oppervlakte,
 1,3334KE,642200000018820,642010000018820,False,industriefunctie,1398,in gebruik
 162,3045PD,599200000220676,599010000080210,False,winkelfunctie,6161,ingetrokken
 22,2954CA,482200001266940,482010001258051,False,woonfunctie,118,in gebruik
-3,3197LR,599200100011173,599010400010783,False,industriefunctie,1947,d verblijfsobject
+3,3197LR,599200100011173,599010400010783,False,industriefunctie,1947,gevormd
 12,3233BZ,614200000001010,614010000005305,False,woonfunctie,139,in gebruik
 192,5928RH,983200000155222,983010000155222,False,kantoorfunctie,33026,in gebruik
 2,3115HH,606200000041069,606010000041068,False,overige gebruiksfunctie,7,in gebruik
@@ -3680,7 +3680,7 @@ huisnummer,postcode,nrAanduiding,vblObject,inOnderzoek,gebruiksdoel,oppervlakte,
 6295,4836LG,758200000090269,758010000074835,False,industriefunctie,396,in gebruik
 31,5341PA,828200001555087,828010001555088,False,woonfunctie,59,in gebruik
 39,2013PH,392200000008245,392010000008245,False,woonfunctie,89,in gebruik
-1,5912BW,983200000157145,983010000157132,False,woonfunctie,149,d verblijfsobject
+1,5912BW,983200000157145,983010000157132,False,woonfunctie,149,in gebruik
 354,3341BP,531200000001557,531010000001557,False,woonfunctie,121,in gebruik
 60,3454PW,344200000104682,344010000093583,False,kantoorfunctie,10469,in gebruik
 64,1431WZ,358200018931177,358010018959957,False,woonfunctie,158,in gebruik
@@ -4059,7 +4059,7 @@ huisnummer,postcode,nrAanduiding,vblObject,inOnderzoek,gebruiksdoel,oppervlakte,
 26,6603AT,296200000010624,296010000011510,False,woonfunctie,140,in gebruik
 7,3433DJ,356200000030626,356010000060315,False,woonfunctie,145,in gebruik
 42,3439MS,356200000014655,356010000044816,False,industriefunctie,270,in gebruik
-11,5011EW,855200000106454,855010000106832,False,woonfunctie,139,d verblijfsobject
+11,5011EW,855200000106454,855010000106832,False,woonfunctie,139,in gebruik
 130,6464EJ,928200000035621,928010000035621,False,woonfunctie,180,in gebruik
 342,1161NN,394200000013628,394010000340625,False,industriefunctie,202,in gebruik
 206,7328PA,200200000048629,200010000185889,False,woonfunctie,83,in gebruik
@@ -4899,7 +4899,7 @@ huisnummer,postcode,nrAanduiding,vblObject,inOnderzoek,gebruiksdoel,oppervlakte,
 126,1064AZ,363200000062664,363010000600327,False,woonfunctie,55,in gebruik
 96,5921GM,983200000020504,983010000020504,False,woonfunctie,169,in gebruik
 18,2162CH,553200000009093,553010000005199,False,woonfunctie,150,in gebruik
-11,5463XB,860200000018850,860010010904953,False,overige gebruiksfunctie,252,d verblijfsobject
+11,5463XB,860200000018850,860010010904953,False,overige gebruiksfunctie,252,in gebruik
 332,1103EW,363200000114318,363010000652125,False,woonfunctie,90,in gebruik
 49,2811SK,595200000000564,595010000000338,False,woonfunctie,61,in gebruik
 3,4791RX,1709200000603872,1709010000173604,False,industriefunctie,15882,in gebruik
